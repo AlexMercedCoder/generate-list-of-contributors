@@ -14,6 +14,7 @@ const createWriter = (repository) => {
       { id: "location", title: "location" },
       { id: "blog", title: "blog" },
       { id: "email", title: "email" },
+      { id: "contributions", title: "contributions" },
     ],
   });
 };
@@ -24,7 +25,7 @@ const assembleCSV = async (repository) => {
 
   // make api call
   const contribResponse = await axios.get(
-    `https://api.github.com/repos/${repository}/contributors?per_page=100&page=2`,
+    `https://api.github.com/repos/${repository}/contributors?per_page=100&page=1`,
     {
       headers: {
         Authorization: `token ${githubToken}`,
@@ -49,7 +50,7 @@ const assembleCSV = async (repository) => {
   const contributorsArray = await Promise.all(contributorsDetails);
 
   // map array of contributors to match csv schema
-  const finalContributors = contributorsArray.map((contributor) => {
+  const finalContributors = contributorsArray.map((contributor, index) => {
     return {
       id: contributor.id,
       username: contributor.login,
@@ -58,6 +59,7 @@ const assembleCSV = async (repository) => {
       location: contributor.location,
       email: contributor.email,
       blog: contributor.blog,
+      contributions: contributors[index].contributions,
     };
   });
 
@@ -73,4 +75,4 @@ const assembleCSV = async (repository) => {
 
 // assembleCSV("apache/hudi")
 
-assembleCSV("delta-io/delta")
+assembleCSV("delta-io/delta");

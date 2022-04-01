@@ -1,7 +1,7 @@
 import csvWriter from "csv-writer";
 import axios from "axios";
 const createCsvWriter = csvWriter.createObjectCsvWriter;
-const githubToken = "";
+const githubToken = "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";
 
 const createWriter = (repository) => {
   return createCsvWriter({

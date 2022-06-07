@@ -12,15 +12,13 @@ const pg = knex({
 const githubToken = GIT_TOKEN;
 
 const assembleData = async (repository, table, cpages) => {
-
   // The below loop, loops per page of contributors
   // Loops through each contributors on each page
   // Aggregates their commits into target database schema
   // commits that page to the database
 
-
-  for (let p; p <= cpages; p += 1) {
-    // make api call for next 100 contributors and aggregate commits
+  for (let p = 1; p <= cpages; p += 1) {
+    // make api call for top 10 contributors
     const contribResponse = await axios.get(
       `https://api.github.com/repos/${repository}/contributors?per_page=100&page=${p}`,
       {
@@ -36,6 +34,13 @@ const assembleData = async (repository, table, cpages) => {
     // loop through each contributor to fetch details
     const contributorsDetails = contributors.map(async (c) => {
       const contributions = [];
+
+      const userDataRequest = await axios(`https://api.github.com/users/${c.login}`, {
+        headers: {
+          Authorization: `token ${githubToken}`,
+        },
+      })
+      const userData = await userDataRequest.data
 
       const pages = Math.ceil(c.contributions / 100);
 
@@ -58,8 +63,10 @@ const assembleData = async (repository, table, cpages) => {
           contributions.push({
             name: name,
             email: email,
-            month: d.getMonth(),
-            year: d.getFullYear(),
+            company: userData.company,
+            username: c.login,
+            date: d,
+            hash: commit.sha,
           });
         }
       }
@@ -69,7 +76,9 @@ const assembleData = async (repository, table, cpages) => {
     const contribs = await Promise.all(contributorsDetails);
     // console.log(contribs[0])
     for (let detail of contribs) {
-      await pg(table).insert(detail);
+      if (detail.length > 0) {
+        await pg(table).insert(detail);
+      }
     }
   }
 
@@ -78,9 +87,9 @@ const assembleData = async (repository, table, cpages) => {
 };
 
 try {
-  // assembleData("apache/iceberg", "iceberg_contributors", 3);
-  assembleData("apache/hudi", "hudi_contributors", 3);
-  // assembleData("delta-io/delta", "delta_contributors", 2);
+  // assembleData("apache/iceberg", "iceberg_contributors",3);
+  // assembleData("apache/hudi", "hudi_contributors", 3);
+  assembleData("delta-io/delta", "delta_contributors",2);
 } catch (error) {
   console.log(error);
 }

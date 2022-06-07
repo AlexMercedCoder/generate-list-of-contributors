@@ -1,7 +1,10 @@
 import csvWriter from "csv-writer";
 import axios from "axios";
+import dotenv from "dotenv"
+
+dotenv.config()
 const createCsvWriter = csvWriter.createObjectCsvWriter;
-const githubToken = "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";
+const githubToken = process.env.GIT_TOKEN;
 
 const createWriter = (repository) => {
   return createCsvWriter({
@@ -25,7 +28,7 @@ const assembleCSV = async (repository) => {
 
   // make api call
   const contribResponse = await axios.get(
-    `https://api.github.com/repos/${repository}/contributors?per_page=100&page=1`,
+    `https://api.github.com/repos/${repository}/contributors?per_page=100&page=3`,
     {
       headers: {
         Authorization: `token ${githubToken}`,
@@ -71,8 +74,10 @@ const assembleCSV = async (repository) => {
     });
 };
 
-// assembleCSV("apache/iceberg");
-
-// assembleCSV("apache/hudi")
-
-assembleCSV("delta-io/delta");
+try {
+  assembleCSV("apache/iceberg");
+  // assembleCSV("apache/hudi")
+  // assembleCSV("delta-io/delta");
+} catch (error) {
+  console.log(error);
+}

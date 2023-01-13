@@ -1,0 +1,101 @@
+customer_id,username,name,company,location,blog,email,contributions
+6012231,frankcash,Frank Cash,,"Oak Park, MI",frankcash.github.io,cash.franky@gmail.com,1
+20421188,gszadovszky,Gabor Szadovszky,,,,,1
+7402327,uncleGen,Genmao Yu,,"Hangzhou, China",,hustyugm@gmail.com,1
+82132356,GoGoWen,,jd.com,,,,1
+43971820,grantatspothero,Grant Nicholas,,Chicago,,,1
+921490,MasseGuillaume,Guillaume Massé,https://narrative.io,"Montréal, Québec, Canada",,g@sca.la,1
+33684427,guykhazma,Guy Khazma,@IBM,,https://guykhazma.github.io/,,1
+5436568,hangc0276,Hang Chen,StreamNative,GuangZhou,,chenhang@apache.org,1
+1560613,hmit,Harshit Mittal,,India,,,1
+5425689,HeChuanXUPT,HeChuan,,,,tinyshrimp@163.com,1
+44333070,Heltman,Helt,,,,heltman@qq.com,1
+2699097,hendrikmakait,Hendrik Makait,@coiled,"Hamburg, Germany",https://makait.com/,hendrik.makait@gmail.com,1
+1486749,InvisibleProgrammer,InvisibleProgrammer,,"Debrecen, Hungary",http://invisibleprogrammer.com/,,1
+1301092,grbinho,Ivan Grbavac,,Netherlands,http://grba.io/,grba@grba.io,1
+4261703,golammott,Jacob Lammott,SIE,"San Diego, California",,,1
+26215547,kings129,Jason Xu,Airbnb,San Francisco,,xuqiang129@gmail.com,1
+26733114,StefanXiepj,Jeff.r,DiDi,Beijing,,stefan_xiepj@126.com,1
+3885256,foarsitter,Jelmer,,,https://jelmert.nl,,1
+76914769,JitseDriesprong,Jitse,,,,,1
+2141170,jpugliesi,John Pugliesi,@viaduct-ai,"San Francisco, CA",www.linkedin.com/in/jpugliesi,jpugliesi12@gmail.com,1
+96974219,Jonathan-Rosenberg,Jonathan Rosenberg,,,,,1
+367841,julienledem,Julien Le Dem,@Astronomer,Berkeley,https://twitter.com/J_,julien@apache.org,1
+19574056,wangjunyou,Junyou Wang,,,,,1
+15733120,JustinLeesin,JustinLee,,"Shanghai, China",,justinlee2080@gmail.com,1
+2627662,KarlManong,Karl Manong,,"SuZhou, JiangSu, China",,abc549825@163.com,1
+44645706,kelvin9314,Kelvin Mok,,"Taichung City, Taiwan",https://kelvin9314.work/,kelvin9314@gmail.com,1
+8326978,yaooqinn,Kent Yao,@NetEase @apache @awesome-spark ,"Hangzhou, China",https://databricks.com/discover/beacons/kent-yao,yao@apache.org,1
+80001819,kevinliu-stripe,Kevin Liu,,,,,1
+9057843,kevinjqliu,Kevin Liu,,,,,1
+4344302,brandboat,Kuan-Po Tseng,,Taiwan,https://www.linkedin.com/in/brandboat/,brandboat@gmail.com,1
+68855,viirya,Liang-Chi Hsieh,@apple @apache ,Seattle,http://www.viirya.org,,1
+5558252,hzluting,luting,,,,,1
+24299345,LuigiCerone,Luigi Cerone,@immobiliare,"Rome, Italy",,luigiceroneaq@gmail.com,1
+14387,martint,Martin Traverso,@trinodb @starburstdata ,,,mtraverso@gmail.com,1
+53406757,Mehul2500,Mehul Sachdeva,@apache,,https://in.linkedin.com/in/mehul-sachdeva-5a7704218?original_referer=https%3A%2F%2Fwww.google.com%2F,,1
+8526007,nssalian,Neelesh Salian,dbt labs,San Francisco,getdbt.com,,1
+16338643,GrigorievNick,Nick,@Appsflyer,Kiev,https://www.linkedin.com/in/nick-grigoriev-0077a068/,grigor60@gmail.com,1
+792045,rosner,Norman Rosner,,,,,1
+1221264,omervk,Omer van Kloeten,@forter ,Israel,https://omervk.com,,1
+13482005,link3280,Paul Lin,Netease,Guangzhou,https://whitewood.me,paullin3280@gmail.com,1
+775635,ravichinoy,Ravi Chinoy,MNP,SF,ravichinoy,ravi.chinoy@gmail.com,1
+1413873,dmgcodevil,Roman Pleshkov,Lost in the static,"USA, NY",,dmgcodevil@gmail.com,1
+5210788,lirui-apache,Rui Li,,China,,lirui@apache.org,1
+3022260,ryanrupp,Ryan Rupp,,,,,1
+3150844,springle,Sam Pringle,,"New York, NY",,,1
+624821,skadyan,Sandeep,PublicisSapient,"Irvine, CA",,,1
+77377842,Stephen-Robin,,,,,,1
+162090,steveloughran,Steve Loughran,@apache @cloudera @hortonworks,"Bristol, England",@stevel@hachyderm.io,,1
+107272191,syun64,Sung Yun,@Bloomberg,,,,1
+2002564,thomaschow,Thomas,,,,thomaschow369@gmail.com,1
+2621219,ulmako,Ulrich Konrad,@kasasi ,Germany,,,1
+4732316,vgankidi,Vinitha Reddy Gankidi,,,,,1
+20928429,vvysotskyi,Volodymyr Vysotskyi,,"Kyiv, Ukraine",,vvovyk@gmail.com,1
+20029252,garawalid,Walid Gara,SFR,Paris,https://www.linkedin.com/in/garawalid/,,1
+18750674,haormj,Ward Harris,@Baidu,"Beijing, China",https://haormj.xyz,haormj@gmail.com,1
+31421745,shangxinli,Xinli Shang,Uber,Seattle,,shangx@uber.com,1
+5677494,yifeih,Yifei Huang,,"Palo Alto, CA",,yifeih@cs.stanford.edu,1
+5399861,wangyum,Yuming Wang,@eBay @Apache,"Shanghai, China",,yumwang@apache.org,1
+6237050,ebyhr,Yuya Ebihara,@starburstdata @trinodb,Japan,https://www.linkedin.com/in/ebyhr/,,1
+17271682,ZorTsou,ZorTsou,,,,scutzou@outlook.com,1
+45828782,alexey-fin,,,,,,1
+12861880,boroknagyz,,,,,boroknagyz@gmail.com,1
+50034283,bsannicolas,,,,,,1
+56140112,cccs-jc,,Canadian Center for Cyber Security,,,,1
+6328857,chakradhar2,,,,,,1
+38340392,chenzihao5,chenzihao,,,,,1
+43906170,chulucninh09,,,Vietnam,,,1
+3859303,daksha121,,Salesforce,San Francisco,,dakshasrani@gmail.com,1
+26749202,dotjdk,,,,,,1
+7753372,moon-fall,fallnirvana,oppo,shenzheng,,903689031@qq.com,1
+12129761,linfey90,feiyang_deepnova,@deepnova,,,nielinfei@deepexi.com,1
+8900183,hbgstc123,Bingeng Huang,shopee,China,,hbgstc123@gmail.com,1
+3607022,hrishisd,,,,,hdharam@berkeley.edu,1
+11593166,hzfanxinxin,,,,,,1
+16745229,itachi-sharingan,,,,,,1
+60238568,jbirtman,,,,,,1
+11854435,jshmchenxi,Xi Chen,Tesla,Shanghai,,jshmchenxi@163.com,1
+5291739,kingeasternsun,kingeasternsun,,hangzhou,,kingeasternsun@gmail.com,1
+5305131,krisdas,,,,,,1
+415742,maqroll,,,,https://maqroll.github.io,,1
+1844473,naushadh,,,,,,1
+8463782,palaniappa,,Salesforce - Ex-Microsoft,Bangalore,,palaniappa@gmail.com,1
+495744,pranaydharmale,,,,,,1
+26450235,qidaye,qiye,,,,jianliang5669@gmail.com,1
+17759741,qphien,,,,,,1
+53618158,renshangtao,renshangtao@deepnova,@deepnova,,,renshangtaomail@163.com,1
+57134307,sanyud24,sanyu daver,,"IIT (BHU),VARANASI",,,1
+26699250,shidayang,shidayang,netease,hangzhou,,530847445@qq.com,1
+55643692,slfan1989,,,,,,1
+3986221,sshkvar,,@wix,,,,1
+77445020,tal66,,,,,,1
+6291837,vinson0526,,,,,,1
+98724840,waifairer,,,,,,1
+13358284,mggger,wangJm,,China,http://mggg.tech/,mggis0or1@gmail.com,1
+18445460,hameizi,wangzeyu,Netease,hangzhou,,1249369293@qq.com,1
+1608505,wssbck,,,,,,1
+52473940,wulei0302,wulei,ByteDance,China HangZhou,,wulei.1023@bytedance.com,1
+5931042,xrl1,,@Sentinel-One ,,,,1
+61017037,xwmr-max,,,,,,1
+20159351,myandpr,yanmin,JD.com,Beijing,,myanstu@163.com,1

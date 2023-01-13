@@ -1,14 +1,22 @@
 import csvWriter from "csv-writer";
 import axios from "axios";
 import dotenv from "dotenv"
+import {writeFileSync, existsSync} from "fs"
 
 dotenv.config()
 const createCsvWriter = csvWriter.createObjectCsvWriter;
 const githubToken = process.env.GIT_TOKEN;
 
-const createWriter = (repository) => {
+const createWriter = (repository, date) => {
+
+  const filePath = `./${repository.replace("/", "-")}-${date}.csv`
+
+  if (!existsSync(filePath)){
+    writeFileSync(filePath, "")
+  }
+
   return createCsvWriter({
-    path: `./${repository.replace("/", "-")}.csv`,
+    path: filePath,
     header: [
       { id: "id", title: "customer_id" },
       { id: "username", title: "username" },
@@ -22,9 +30,9 @@ const createWriter = (repository) => {
   });
 };
 
-const assembleCSV = async (repository) => {
+const assembleCSV = async (repository, date) => {
   // create CSV writer
-  const writer = createWriter(repository);
+  const writer = createWriter(repository, date);
 
   // make api call
   const contribResponse = await axios.get(
@@ -75,9 +83,9 @@ const assembleCSV = async (repository) => {
 };
 
 try {
-  assembleCSV("apache/iceberg");
-  // assembleCSV("apache/hudi")
-  // assembleCSV("delta-io/delta");
+  // assembleCSV("apache/iceberg", "011323");
+  assembleCSV("apache/hudi", "011323")
+  // assembleCSV("delta-io/delta","011323");
 } catch (error) {
   console.log(error);
 }

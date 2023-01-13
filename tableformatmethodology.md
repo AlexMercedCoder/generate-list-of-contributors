@@ -1,6 +1,7 @@
 ## Methodology
 
-Step 1 - Generate CSV of Contributions from Public Github Repo by running script in `contrib-csv.js` 
+### Step 1
+Generate CSV of Contributions from Public Github Repo by running script in `contrib-csv.js` 
 
 [script](./contrib-csv.js)
 
@@ -15,3 +16,15 @@ try {
   console.log(error);
 }
 ```
+
+Step 2
+
+Make cleanup efforts.
+
+- Make sure the company names are consistent so tabulations are correct
+- Lookup employers of contributors so tabulations are accurate
+- For those with 10+ contributions parse out whether contributions stretched across time at multiple companies.
+
+Step 3
+
+Create a chart that counts each contributors contributions against their employer and measures them as a % against all contributions.

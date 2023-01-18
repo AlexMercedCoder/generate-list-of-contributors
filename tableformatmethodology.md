@@ -24,7 +24,8 @@ Make cleanup efforts.
 - Make sure the company names are consistent so tabulations are correct
 - Lookup employers of contributors so tabulations are accurate
 - For those with 10+ contributions parse out whether contributions stretched across time at multiple companies.
+- For parsing out based on employement, I use the contrib2db.js script in this repo to populate a postgres table with all commits by every contributor then use aggregation queries to determine which commits below to the tenure at each company based on the contributors linkedIn profile.
 
 Step 3
 
-Create a chart that counts each contributors contributions against their employer and measures them as a % against all contributions.
+Create a pivot table that aggregates contributions among all contributors by company then make a chart from the pivot table.

@@ -1,4 +1,204 @@
 customer_id,username,name,company,location,blog,email,contributions
+87915,rdblue,Ryan Blue,"Tabular, @tabular-io","Boise, ID",,blue@apache.org,665
+6235869,aokolnychyi,Anton Okolnychyi,Apple,Cupertino,www.linkedin.com/in/aokolnychyi/,aokolnychyi@apache.org,310
+1134248,Fokko,Fokko Driesprong,@tabular-io,Netherlands,https://www.linkedin.com/in/fokkodriesprong/,fokko@driesprong.frl,249
+9833362,kbendick,Kyle Bendickson,@tabular-io ,"Los Angeles, CA",,,181
+271029,nastra,Eduard Tudenhöfner,@tabular-io,"Stuttgart, Germany",,etudenhoefner@gmail.com,164
+29823233,jackye1995,Jack Ye,AWS Athena,Seattle,https://www.linkedin.com/in/yezhaoqin,yzhaoqin@amazon.com,86
+5028729,openinx,openinx,,,,,82
+413025,RussellSpitzer,Russell Spitzer,,New Orleans,www.russellspitzer.com,,77
+5889404,ajantha-bhat,Ajantha Bhat,@Dremio,India (Remote),https://www.linkedin.com/in/ajanthabhat/,ajanthabhat@gmail.com,64
+3960228,chenjunjiedada,"Chen, Junjie",Tencent,Shanghai,,jimmyjchen@tencent.com,55
+1545663,stevenzwu,Steven Zhen Wu,Netflix,,,,54
+49699333,dependabot[bot],,,,,,53
+20555759,szehon-ho,Szehon Ho,@apple,,,,52
+35593236,singhpk234,Prashant Singh,@AWS-EMR,"San Francisco, USA",,,50
+12246263,jun-he,,Netflix,"San Francisco, CA",,,50
+43911210,samredai,Samuel Redai,,"Cambridge, MA",https://www.linkedin.com/in/sredai,,47
+59213263,hililiwei,Liwei Li,Huawei,Nanjing China,blog.liliwei.dev,hililiwei@gmail.com,46
+4561678,rajarshisarkar,Rajarshi Sarkar,Amazon EMR,Bangalore,,srajars@amazon.com,43
+19599214,marton-bod,Marton Bod,,,,marton.bod@gmail.com,39
+1322359,flyrain,Yufei Gu,,,,yufei@apache.org,35
+144328,findepi,Piotr Findeisen,@starburstdata ,Poland,,,33
+6961317,shardulm94,Shardul Mahadik,,India,,smahadik@linkedin.com,32
+129474,rdsr,Ratandeep Ratti,LinkedIn!,"Sunnyvale, CA",,rratti@linkedin.com,31
+957468,snazy,Robert Stupp,Dremio,Germany,,,29
+87500546,amogh-jahagirdar,Amogh Jahagirdar,AWS Athena,Seattle,jahamogh@amazon.com,jahamogh@amazon.com,29
+3925490,wypoon,Wing Yew Poon,,,,wypoon@apache.org,28
+4925077,danielcweeks,Daniel Weeks,Tabular,,,,25
+71906210,yyanyy,,AWS,,,yanya@amazon.com,25
+5475421,bryanck,Bryan Keller,,,,,24
+3785228,felixYyu,,jiuyescm,ShangHai,zhihu.com/people/newsea008,newsea008@163.com,23
+1591711,TGooch44,Ted Gooch,,"Los Angeles, CA, USA",,,23
+266670,edgarRd,Edgar Rodriguez,@airbnb,"San Francisco, CA",,,20
+9601882,JingsongLi,Jingsong Lee,@alibaba,Hangzhou China,,,19
+1642180,samarthjain,Samarth Jain,,,,samarth@apache.org,18
+5082742,karuppayya,Karuppayya,Apple,SF Bay area,,,17
+8975385,mccheah,,,,,,17
+4429171,yittg,Yi Tang,,,,ssnailtang@gmail.com,16
+26535726,pan3793,Cheng Pan,@NetEase @apache ,"Hangzhou, China",,chengpan@apache.org,16
+25563794,zhangjun0x01,JunZhang,,beijing,https://blog.csdn.net/zhangjun5965/,zhangjunemail@126.com,15
+1317309,HeartSaVioR,Jungtaek Lim,,South Korea,https://medium.com/@heartsavior,kabhwan.opensource@gmail.com,14
+47777102,lcspinter,László Pintér,,,,,14
+13976495,waterlx,Xiang Li,,Beijing,,waterlx@gmail.com,14
+13592258,huaxingao,Huaxin Gao,@apple @apache,"San Jose, CA",,huaxin.gao11@gmail.com,14
+55990951,JonasJ-ap,Rushan Jiang,,"Pittsburgh,PA",home.jonasjiangrushan.com,rushanj@andrew.cmu.edu,13
+6914358,Parth-Brahmbhatt,Parth Brahmbhatt,netflix,United States,,,13
+229846,cwsteinbach,Carl Steinbach,,,,,13
+38547014,lvyanquan,Kunni,Dtstack,Zhejiang Hangzhou,,decq12ybhl@gmail.com,13
+9230,electrum,David Phillips,Starburst Data,"San Jose, CA",https://linkedin.com/in/electrum,david@acz.org,12
+159186,liuml07,Mingliang Liu,@netflix,San Francisco Bay Area,people.apache.org/~liuml07,liuml07@apache.org,12
+1204398,XN137,Christopher Lambert,,"Stuttgart, Germany",,,11
+4915557,SinghAsDev,Ashish Singh,,San Francisco Bay Area,,,10
+218555,xabriel,Xabriel J. Collazo Mojica,@wikimedia,,https://www.linkedin.com/in/xabriel,xabrielc@gmail.com,10
+12733256,ConeyLiu,Xianyang Liu,"Tencent, Intel",Shanghai,coneyliu.wordpress.com,liu-xianyang@hotmail.com,10
+850797,jerryshao,Saisai Shao,,Shanghai,,jshao@apache.org,10
+29457,massdosage,Adrian Woodhead,@HumanSecurity,London,http://massdosage.co.za,,10
+40628386,szlta,Adam Szita,,,,,9
+1883812,jzhuge,John Zhuge,Netflix,San Francisco Bay Area,,jzhuge@apache.org,9
+2022305,rymurr,Ryan Murray,,Munich Germany,,rymurr@gmail.com,9
+29145491,gaborkaszab,,,,,,9
+12458911,xingbowu,mikewu,,HangZhou,,xingbowu@gmail.com,9
+62487364,williamhyun,William Hyun,@apache,,,william@apache.org,9
+88681113,xiaoxuandev,Xiaoxuan,,,,xioxuan@amazon.com,8
+67534059,izchen,Chen Zhang,,Beijing,,,7
+14225158,dilipbiswal,Dilip Biswal,Adobe Inc.,"San Jose, CA",https://spark.tc,dkbiswal@gmail.com,7
+1474591,prodeezy,Gautam,Adobe,San Francisco,https://www.linkedin.com/in/gautamk/,Kowshik,7
+5961173,dramaticlly,Hongyue/Steve Zhang,Apple,Seattle,,steveiszhy@gmail.com,7
+8072956,puchengy,Pucheng Yang,Pinterest,San Francisco,https://www.linkedin.com/in/puchengy/,,7
+11813428,SreeramGarlapati,Sreeram Garlapati,SalesForce,Bellevue,http://stackoverflow.com/users/3277385/sreeram,,7
+3050222,XiaokunDing,XiaokunDing,tencent,,,,7
+3011588,guilload,Adrien Guillo,"Quickwit, Inc.","Brooklyn, NY",quickwit.io,adrien@quickwit.io,6
+38486782,coolderli,Peidian li,Xiaomi,Beijing,https://www.linkedin.com/in/peidian-li-18938820a/,,6
+16563220,skambha,Sunitha Kambhampati,IBM CODAIT( Formerly IBM Spark Technology Center),CA,http://www.spark.tc,skambha@us.ibm.com,6
+56447460,cccs-eric,,Canadian Centre for Cyber Security,"Ottawa, Canada",https://cyber.gc.ca/,eric.ladouceur@cyber.gc.ca,6
+22434010,manishmalhotrawork,,,,,,6
+1302547,jfz,Tim Jiang,,,,,6
+11939923,krvikash,Vikash Kumar,@starburstdata,Bangalore,,,6
+42907416,zhongyujiang,Yujiang Zhong,Xiaomi,,,,6
+32553472,cmathiesen,Christine,,London,,cdm.danmark@gmail.com,6
+19755729,wuwenchi,wuwenchi,,Hangzhou,,wuwenchihdu@hotmail.com,6
+15086720,arina-ielchiieva,Arina Ielchiieva,,"Toronto, Canada",,,5
+559272,fbocse,Filip Bocse,TapWater,"San Francisco, CA",http://tapwater.io,,5
+1576013,fwessels,Frank Wessels,,"Los Altos Hills, CA",,,5
+1475634,gustavoatt,Gustavo Torres,,,,,5
+1720962,oikomi,Harold Miao,bytedance.com,"Shanghai, China",http://oikomi.github.io/,miaohong@miaohong.org,5
+678008,CodingCat,Nan Zhu,SafeGraph,Seattle,http://codingcat.me/,,5
+35903677,CircArgs,Nick Ouellet,,,www.ouellet.dev,,5
+1190920,omarsmak,Omar Al-Safi,@dremio,"Düsseldorf, Germany",https://blog.oalsafi.com,oalsafi@apache.org,5
+17312872,Reo-LEI,Reo,,Guangzhou,,leinuowen@gmail.com,5
+7351922,sumeetgajjar,Sumeet Gajjar,Cloudera,"Greater Seattle Area, WA",,,5
+105892373,xingfanx,Xingfan Xia,Amazon Athena,"Redmond, WA",https://www.linkedin.com/in/xingfanxia/,xingfanx@amazon.com,5
+17869838,emkornfield,,,,,,5
+2379129,moulimukherjee,,,San Francisco,,,5
+19705742,pvary,,,,,,5
+26177232,xloya,xloya,,Beijing,,,5
+9700541,dongjoon-hyun,Dongjoon Hyun,@apple @apache ,San Francisco Bay Area,https://www.linkedin.com/in/dongjoon,dongjoon@apache.org,5
+20614350,southernriver,southernriver,UESTC,,,,5
+12015546,a49a,Wang Luning,,Mars,,wang4luning@gmail.com,5
+3334099,joshuarobinson,Joshua Robinson,Nvidia,,https://joshua-robinson.medium.com/,,4
+5033592,wangmiao1981,Miao Wang,Adobe,"San Jose, CA",,,4
+206536,omalley,Owen O'Malley,LinkedIn,"Sunnyvale, CA",http://people.apache.org/~omalley/,omalley@apache.org,4
+37443208,rubenvdg,Ruben van de Geer,@taxibeat ,Amsterdam,,,4
+17567499,sujithjay,Sujith Jay Nair,@nubank,"Berlin, Germany",https://sujithjay.com,,4
+12200381,vrozov,Vlad Rozov,,,,,4
+83057695,wang-x-xia,Xia,@dell,"Shang Hai, China",,,4
+8123755,q977734161,lixiaobao,no,beijing,https://github.com/q977734161,lixiaobao0202@gmail.com,4
+105710753,xuzhiwen1255,xzw_deepnova,@deepnova,,,,4
+7353275,pavibhai,Pavan Lanka,,,,planka@apple.com,4
+6005685,ismailsimsek,ismail simsek,,Munich,,,4
+98149057,0xffmeta,,,,,,3
+75326,mehtaashish23,Ashish Mehta,Adobe,San Jose,,mehta.ashish23@gmail.com,3
+7012524,bijanhoule,Bijan Houle,,,,,3
+506679,sunchao,Chao Sun,@apple @apache,Cupertino,http://sunchao.github.io,sunchao@apache.org,3
+40603221,dimas-b,Dmitri Bourlatchkov,,"Toronto, Canada",,,3
+1297262,ddrinka,Douglas Drinka,Ergon Capital Management,,,,3
+10494131,XuQianJin-Stars,ForwardXu,Tencent,"shenzhen,China",https://github.com/Tencent,forwardxu315@gmail.com,3
+4381431,jasonhughes248,Jason Hughes,Dremio,,,,3
+1191767,manuzhang,Manu Zhang,,404,https://manuzhang.github.io/,OwenZhang1990@gmail.com,3
+1303530,dixingxing0,dixingxing,autohome,,,dixingxing0@gmail.com,3
+12033212,ggershinsky,,,Haifa,,,3
+8659624,mayursrivastava,,Two Sigma,New York,,,3
+29967142,polaris6,polaris6,@Tencent,"ShenZhen, China",,bobzhang94@foxmail.com,3
+16517035,smallx,,@baidu,"Beijing, China",,,3
+64360028,vanliu-tx,vanliu,tencent.com,shenzhen,,vanliu@tencent.com,3
+17720945,xiaotianzhang01,,,,,,3
+6848311,dungdm93,Đặng Minh Dũng,@teko-vn ,"Hanoi, Vietnam",https://facebook.com/dungdm93,,3
+95991144,natsukawa-kanou,Kanou Natsukawa,,"Fukuoka, Japan",,natsukawa.kanou@protonmail.com,3
+11399509,dhruv-pratap,Dhruv Pratap,Netflix Inc,"Wilmington DE, USA",https://www.linkedin.com/in/dhruvpratap/en,dhruv.pratap@gmail.com,3
+59893,holdenk,Holden Karau,Open Source Big Data Dev,"San Francisco, CA, USA",http://www.holdenkarau.com/resume.pdf?q=github,holden@pigscanfly.ca,3
+4156460,jbapple,Jim Apple,,,,,3
+20125927,KnightChess,,DIDI,"beijing, China",,wlqfzs@163.com,3
+5193063,racevedoo,Rafael Acevedo,@inloco ,,,rafael.acevedo.ag@gmail.com,3
+3831468,rominparekh,Romin Parekh,@Adobe,San Francisco,,,3
+10800873,sudssf,Sudarshan S,,,,,3
+14279024,xiao-chen,Xiao Chen,"@netflix, ex-@cloudera",,,,3
+47990574,lxynov,Xingyuan Lin,,Bay Area,https://lxynov.github.io,linxingyuan1102@gmail.com,3
+25578853,zhangdove,zhangdove,,Shanghai,,zsuperdove@163.com,3
+26719001,20100507,,,,https://www.bianqi.space,1162223173@qq.com,3
+69539469,abmo-x,Abid Mohammed,@Apple,"Seattle, WA",,,2
+7109804,alexjo2144,Alexander Jo,@starburstdata ,"Boston, MA",,jo.alex2144@gmail.com,2
+4738144,rawataaryan9,Aman Rawat,,,,rawataaryan09@gmail.com,2
+34575854,Andre9580,Andre,,,,,2
+5257839,dchristle,David Christle,@discord ,"Mountain View, CA",,,2
+66974735,djsstarburst,David Stryker,Starburst,,,,2
+39462475,Flyangz,,,,,flyang116@126.com,2
+6187287,haizhou-zhao,Haizhou Zhao,,,,zhaohaizhou940527@gmail.com,2
+95350,jghoman,Jakob Homan,,Seattle,,,2
+5501374,Kontinuation,Kristin Cowalcijk,Wherobots Inc.,,,kristincowalcijk@gmail.com,2
+5977937,timmylicheng,Li Cheng,Tencent,Shanghai,,licheng@apache.org,2
+17932873,namrathamyske,Namratha Mysore Keshavaprakash,Salesforce,San Francsico,,nmk344@gmail.com,2
+2358709,puneetzaroo,Puneet Zaroo,,,https://puneetzaroo.github.io,,2
+13834479,rickyma,RickyMa,,,,mhx8888@gmail.com,2
+9795421,sririshindra,Rishi,Cloudera,"Sunnyvalle, CA",,sririshindra@gmail.com,2
+6441597,HotSushi,Sushant Raikar,,Sunnyvale,,sushant.s.raikar@gmail.com,2
+30231978,raptond,Thiru Paramasivan,,,,,2
+59021490,tprelle,Thomas Prelle,@ubisoftinc ,,,,2
+43331405,tomtongue,TomohiroTANAKA,,"Tokyo, Japan",https://tomtana.com/,,2
+27927454,xinbinhuang,Xinbin Huang,Stripe,Canada,https://www.linkedin.com/in/xinbin-huang/,bin.huangxb@gmail.com,2
+2434086,leoluan2009,Xuedong Luan,Tencent,,,luanxuedong2009@gmail.com,2
+18146312,Zhangg7723,zhanggan_deepnova@deepexi,Deepexi,,,,2
+52714809,chyzzqo2,,,,,,2
+27606234,cutiechi,,,,https://cutiechi.com,superchijinpeng@gmail.com,2
+18661457,fb913bf0de288ba84fe98f7a23d35edfdb22381,,,,,,2
+779556,happyprg,happyprg,Naver corp,South Korea,http://happyprg.com,hongsgo@gmail.com,2
+9374627,lys0716,,,,,,2
+42550941,mickjermsurawong-stripe,,Stripe,San Francisco,,,2
+109923844,price-qian,,,,,,2
+18818196,tisonkun,tison,@apache,,https://tisonkun.org/,wander4096@gmail.com,2
+14267759,wg1026688210,wgcn,autohome,beijing,,,2
+9739243,arminnajafi,Armin Najafi,,,,najarmin@amazon.com,2
+573719,islamismailov,Islam Ismailov,@facebookexternal ,Bellevue,,islamismailov@gmail.com,2
+75445426,rzhang10,Limian (Raymond) Zhang,LinkedIn,,https://www.linkedin.com/in/rzhanglm/,,2
+49054376,zhaomin1423,Xiao Zhao,,"Hangzhou, China",,zhaomin1423@163.com,2
+12323514,simonsssu,,,,,,2
+1093911,SurenNihalani,Suren Nihalani,@govtron,"San Mateo, CA",,,2
+6033430,rizaon,,@cloudera,,https://www.rizasuminto.com/,riza.on@gmail.com,2
+146449,cabhishek,Abhishek,Netflix,San Francisco CA,https://cabhishek.com/,cabhishek@gmail.com,1
+3403122,aajisaka,Akira Ajisaka,@aws,"Tokyo, Japan",https://aajisaka.hatenablog.com/,,1
+5010391,alec-heif,Alec Heifetz,,,,alec.heif@gmail.com,1
+3389505,andrei-ionescu,Andrei Ionescu,@adobe ,"Bucharest, Romania",https://www.linkedin.com/in/andreiionescu/,webdev.andrei@gmail.com,1
+260750,aspyker,Andrew Spyker,Gemini,"San Jose, CA",https://twitter.com/aspyker,,1
+52180099,anjalinorwood,Anjali Norwood,Netflix,"Los Gatos, CA",,,1
+13743212,anuragmantri,Anurag Mantripragada,,"Palo Alto, California",,,1
+7006859,ashleycoxley,Ashley Cox,,"Oakland, CA",,,1
+187570,bztsai,Benjamin Tsai,,"Taipei, Taiwan",http://BenjaminTsai.com/,hello@benjamintsai.com,1
+226258,Omega359,Bruce Ritchie,,,,,1
+9296411,Jecarm,Carm,,China,blog.jecarm.com,,1
+39509320,jiamin13579,Check Null,,,,,1
+31469905,yabola,ChenLiang.Lu,,,,,1
+10886716,cdw9bf,Chris Wiens,Facebook,San Francisco ,,cwiens1@gmail.com,1
+1738983,cobookman,Colin Bookman,LinkedIn (Ex AWS/GCP),"San Francisco, CA",,cobookman@gmail.com,1
+144458,casidiablo,Cristian,Bird,,https://cristian.io,,1
+222827,dansanduleac,Dan Sănduleac,,"London, U.K.",,,1
+392292,dnielsen,Dave Nielsen,Harness.io,"Mountain View, CA",https://linkedin.com/in/dnielsen,dnielsen@gmail.com,1
+736171,yuzhu,David Zhu,,,,davidyuzhu@gmail.com,1
+40926346,newroyker,Debajyoti Roy,,SFBA,,,1
+7410123,dennishuo,Dennis Huo,Snowflake,,,,1
+11454734,WinkerDu,DuRipeng,Baidu,Beijing,,453243496@qq.com,1
+1667350,dubeme,Dubem,,,http://www.dubemenyekwe.com,,1
+6923972,ericlgoodman,Eric Goodman,AWS,"New York, NY",ericgoodman.me,,1
+20507243,fqaiser94,Farooq Qaiser,,"Toronto, Canada",https://www.linkedin.com/in/fqaiser94/,,1
 6012231,frankcash,Frank Cash,,"Oak Park, MI",frankcash.github.io,cash.franky@gmail.com,1
 20421188,gszadovszky,Gabor Szadovszky,,,,,1
 7402327,uncleGen,Genmao Yu,,"Hangzhou, China",,hustyugm@gmail.com,1
@@ -99,3 +299,9 @@ customer_id,username,name,company,location,blog,email,contributions
 5931042,xrl1,,@Sentinel-One ,,,,1
 61017037,xwmr-max,,,,,,1
 20159351,myandpr,yanmin,JD.com,Beijing,,myanstu@163.com,1
+74643176,Zephyr589,zepyhr,,,,,1
+72908278,ZhangChaoming,zhang chaoming,,HangZhou,,,1
+19317643,ymZhao1001,zhaoym_deepnova,@deepnova,,,zhaoyangming@deepexi.com,1
+26762018,caneGuy,zhoukang,Alibaba,china,,zhoukang199191@gmail.com,1
+32817398,zoucao,,XiaoMi,beijing,,,1
+8159038,jerqi,roryqi,Tencent,,http://jerqi.github.io/,roryqi@apache.org,1

@@ -35,12 +35,15 @@ const assembleData = async (repository, table, cpages) => {
     const contributorsDetails = contributors.map(async (c) => {
       const contributions = [];
 
-      const userDataRequest = await axios(`https://api.github.com/users/${c.login}`, {
-        headers: {
-          Authorization: `token ${githubToken}`,
-        },
-      })
-      const userData = await userDataRequest.data
+      const userDataRequest = await axios(
+        `https://api.github.com/users/${c.login}`,
+        {
+          headers: {
+            Authorization: `token ${githubToken}`,
+          },
+        }
+      );
+      const userData = await userDataRequest.data;
 
       const pages = Math.ceil(c.contributions / 100);
 
@@ -87,9 +90,9 @@ const assembleData = async (repository, table, cpages) => {
 };
 
 try {
-  // assembleData("apache/iceberg", "iceberg_contributors",3);
-  // assembleData("apache/hudi", "hudi_contributors", 3);
-  assembleData("delta-io/delta", "delta_contributors",2);
+  // assembleData("apache/iceberg", "iceberg_cont_2023",4);
+  // assembleData("apache/hudi", "hudi_cont_2023", 4);
+  assembleData("delta-io/delta", "delta_cont_2023", 3);
 } catch (error) {
   console.log(error);
 }

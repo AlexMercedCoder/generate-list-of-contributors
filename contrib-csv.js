@@ -100,9 +100,9 @@ const assembleCSV = async (repository, date) => {
 };
 
 try {
-  assembleCSV("apache/iceberg", "011323");
-  // assembleCSV("apache/hudi", "011323")
-  // assembleCSV("delta-io/delta", "011323");
+  // assembleCSV("apache/iceberg", "082323");
+  // assembleCSV("apache/hudi", "082323")
+  assembleCSV("delta-io/delta", "082323");
 } catch (error) {
   console.log();
 }

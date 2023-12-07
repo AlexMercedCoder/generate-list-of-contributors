@@ -1,0 +1,273 @@
+customer_id,username,name,company,location,blog,email,contributions
+59617782,scottsand-db,Scott Sandre,@databricks ,San Francisco,,,206
+1000778,zsxwing,Shixiong Zhu,"Databricks, Inc.",San Francisco,,,172
+89107911,allisonport-db,Allison Portis,,,,,141
+663212,tdas,Tathagata Das,,,https://www.linkedin.com/in/tathadas,,112
+5243515,brkyvz,Burak Yavuz,,,,burak@databricks.com,97
+1719945,vkorukanti,Venki Korukanti,,Campbell,,,94
+51690557,rahulsmahadev,Rahul Shivu Mahadev,Databricks,San Francisco,,,84
+2551496,prakharjain09,Prakhar Jain,Databricks,,,prakharjain09@gmail.com,81
+67607237,jackierwzhang,,,,,,77
+77000999,larsk-db,Lars Kroll,@databricks ,Amsterdam,,lars.kroll@databricks.com,60
+1687847,xupefei,Paddy Xu,@databricks,Amsterdam,,xupaddy@gmail.com,60
+30604243,jose-torres,Jose Torres,,,,,56
+3182036,cloud-fan,Wenchen Fan,Databricks,"Hangzhou, China",,wenchen@databricks.com,51
+1174914,lzlfred,Fred Storage Liu,,,,,49
+79601771,ryan-johnson-databricks,Ryan Johnson,Databricks,,,,48
+112404801,fred-db,Fredrik Klauss,Databricks,"Amsterdam, Netherlands",,,39
+112876214,johanl-db,Johan Lasperas,Databricks,Berlin,,,38
+36902243,liwensun,Liwen Sun,,,,,37
+548423,cstavr,Christos Stavrakakis,,,https://www.linkedin.com/in/christos-stavrakakis-b978a34b,stavr.chris@gmail.com,34
+77353730,mengtong-db,Meng Tong,Databricks,San Francisco,,,34
+6197214,pranavanand,Pranav ,@Databricks,NYC,,,33
+59841299,husseinnagr-db,Hussein Nagree,,,,,32
+75306826,yijiacui-db,Yijia Cui,,,,,32
+46442880,tomvanbussel,Tom van Bussel,@databricks ,Amsterdam,,,31
+52208605,sabir-akhadov,,,,,,30
+108767976,mingdai-db,Ming DAI,,,,,29
+7932805,kristoffSC,,,,,krzysiek.chmielewski@gmail.com,28
+93710326,andreaschat-db,Andreas Chatzistergiou,,,,,27
+91572897,kamcheungting-db,,,,,,24
+91378169,pkubit-g,Paweł Kubit,,Warsaw,https://www.linkedin.com/in/pawel-kubit-853a7a135/,,22
+1597914,LukasRupprecht,Lukas Rupprecht,,"San Francisco, CA",https://lukasrupprecht.github.io/,,20
+17145932,dabao521,jintao shen,,,,,19
+3536454,Kimahriman,Adam Binford,,,,,18
+12103644,imback82,Terry Kim,Databricks,"Bellevue, WA",,terry.kim@databricks.com,17
+1825975,olaky,Ole Sasse,Databricks,Berlin,https://www.databricks.com/,ole.sasse@databricks.com,16
+1097932,gengliangwang,Gengliang Wang,Databricks,Palo Alto,,gengliang@apache.org,16
+43783444,bart-samwel,Bart Samwel,@databricks,Amsterdam,,,15
+1460389,harperjiang,Hao Jiang,Databricks,United States,,harperjiang@msn.com,14
+125324092,dhruvarya-db,Dhruv Arya,,,,,12
+1336227,felipepessoto,Felipe Pessoto,@microsoft,Redmond,http://blog.fujiy.net,,12
+62313,jaceklaskowski,Jacek Laskowski,Freelance Data Engineer,"Warsaw, Poland",https://books.japila.pl,jacek@japila.pl,12
+98071773,tcondie-db,Tyson Condie,Databricks,Los Angeles,,,12
+104398294,vitaliili-db,Vitalii Li,,,,vitalii.li@databricks.com,12
+1446829,dennyglee,Denny Lee,@databricks,"Seattle, WA",dennyglee.github.io,denny.g.lee@gmail.com,11
+105243217,jintian-liang,Jintian Liang,Databricks,,,,11
+3514644,srielau,Serge Rielau,Databricks,San Francisco,,,11
+79476540,Yaohua628,Yaohua Zhao,Databricks,"San Francisco, CA",https://www.linkedin.com/in/zhaoyaohua/,,11
+19472747,zachschuermann,Zach Schuermann,@databricks,"San Francisco, CA",zachschuermann.com,,11
+38224594,mukulmurthy,Mukul Murthy,,,,,11
+13973764,zedtang,Jiaheng Tang,@databricks,,,,10
+11567269,gatorsmile,Xiao Li,Databricks Inc.,"San Francisco, CA",https://www.linkedin.com/in/smilegator/,,10
+4971795,mahmoudmahdi24,mahmoud mahdi,Freelancer,Paris,https://www.linkedin.com/in/mahmoud-mahdi-14575295/,mahmoudmahdi24@gmail.com,9
+1580697,MaxGekk,Maxim Gekk,Databricks Inc.,"Moscow, Russia",https://linkedin.com/in/maxgekk/,max.gekk@gmail.com,9
+50329522,dbaliafroozeh,Ali Afroozeh,@databricks ,Amsterdam,,,8
+39497924,databricks-david-lewis,David Lewis,,,,,8
+11884402,gbrueckl,Gerhard Brueckl,@paiqo ,Austria,https://blog.gbrueckl.at,,8
+85203301,junlee-db,Jun,,,,,8
+25225043,anchovYu,Xinyi,,,,,8
+67896261,linhongliu-db,Linhong Liu,@databricks ,Bay Area,,,7
+102559306,naga-bhanoori-db,Naga Raju Bhanoori,@databricks,,,,7
+89877744,rajeshparangi,Rajesh Parangi,Databricks,San Francisco,,,7
+9616802,hvanhovell,Herman van Hovell,Databricks,Netherlands/US,http://www.databricks.com,,7
+9080227,desmondcheongzx,Desmond Cheong,Databricks,San Francisco | Singapore,desmondcheong.com,desmond@desmondcheong.com,6
+4754931,karenfeng,Karen Feng,Stanford University,"Stanford, CA",,,6
+15246973,panbingkun,panbingkun,,Beijing,,,6
+69210845,junlinzeng-db,Junlin Zeng,Databricks,San Mateo,,,6
+4719435,SpaceRangerWes,Wesley Hoffman,Apple,"Seattle, WA",,,6
+50844714,ZhitongDB,,,,,,6
+44108233,itholic,Haejoon Lee,@databricks,"Seoul, South Korea",https://www.linkedin.com/in/haejoon-l-97ba69161/,,6
+55518381,chaoqin-li1123,,Databricks,,,,5
+99207096,dtenedor,Daniel Tenedorio,@databricks ,,,,5
+23219656,eric-maynard,Eric Maynard,@databricks,,,eric.maynard@databricks.com,5
+25019163,juliuszsompolski,Juliusz Sompolski,@databricks ,"Amsterdam, NL",,,5
+5907405,linmagit,Lin Ma,,"Ann Arbor, MI",https://web.eecs.umich.edu/~linmacse/,,5
+527,marmbrus,Michael Armbrust,UC Berkeley,"Berkeley, CA",http://cs.berkeley.edu/~marmbrus/,,5
+384788,sigmod,Yingyi Bu,"Databricks, Inc.",San Francisco,,buyingyi@gmail.com,5
+46790654,sherlockbeard,,,,,,5
+100322362,anishshri-db,Anish,,,,,5
+5399861,wangyum,Yuming Wang,@eBay @Apache,"Shanghai, China",,yumwang@apache.org,5
+6235869,aokolnychyi,Anton Okolnychyi,Apple,Cupertino,www.linkedin.com/in/aokolnychyi/,aokolnychyi@apache.org,5
+153361,ahirreddy,Ahir Reddy,Databricks Inc.,United States,,ahirreddy@gmail.com,4
+1853780,LantaoJin,Lantao Jin,Amazon Web Service,"Shanghai, China",https://www.linkedin.com/in/lantaojin,jinlantao@gmail.com,4
+39310375,ami7o,Ami Oka,@databricks ,,,,4
+51813538,ahlag,Chang Yong Lik,Walmart,Tokyo,,,4
+2722395,MrPowers,Matthew Powers,,New York,https://mungingdata.com/,matthewkevinpowers@gmail.com,4
+26594,rtyler,R. Tyler Croy,,California,https://brokenco.de,rtyler@brokenco.de,4
+37817348,weshsiao,,,,,,4
+1074785,ericfchang,,,,,,4
+25167333,rajagurunath,gurunath,,india,,gurunathrajagopal@gmail.com,4
+46709456,IonutBoicuAms,Ionut,,,,,4
+1317309,HeartSaVioR,Jungtaek Lim,,South Korea,https://medium.com/@heartsavior,kabhwan.opensource@gmail.com,4
+6477701,HyukjinKwon,Hyukjin Kwon,@Apache @Databricks,South Korea,https://www.linkedin.com/in/hyukjin-kwon-25045412b,gurwls223@apache.org,4
+9374627,lys0716,,,,,,4
+166012,ala,Ala Luszczak,Databricks,"Amsterdam, Netherlands",,,3
+483004,anew,Andreas Neumann,Databricks,"San Francisco, CA",,anew@apache.org,3
+2154530,AFFogarty,Andrew Fogarty,@Microsoft ,"New York, NY",,,3
+109614351,bogao007,Bo Gao,Databricks,,,bo.gao@databricks.com,3
+20251669,c27kwan,Carmen Kwan,,,,,3
+132389385,watfordkcf,Christopher Watford,@kcftech,"Wilmington, NC",,,3
+115515316,costas-db,Costas Zarifis,,,,,3
+2642097,grzegorz8,Grzegorz Kołakowski,,Warsaw,,kolakowski.grzegorz@gmail.com,3
+31941987,jodb,John ODwyer,,,,,3
+6781076,jkylling,Jonas Irgens Kylling,,,,jkylling@gmail.com,3
+5716509,ksree,Kapil Sreedharan,,"Toronto, ON",,kapilsreed@gmail.com,3
+87341375,linzhou-db,Lin Zhou,DataBricks,,,,3
+113953232,mohamedzait,,,,,,3
+1094760,takezoe,Naoki Takezoe,,,https://twitter.com/takezoen,takezoe@gmail.com,3
+378539,cheleb,Olivier NOUGUIER,Ledger,"Montpellier, France",,olivier.nouguier@gmail.com,3
+94015493,pengzhon-db,Peng Zhong,@databricks ,,,,3
+1938382,amaliujia,Rui Wang,,,,,3
+117128953,satyavall-db,Satya Valluri,Databricks,,,,3
+23084147,vinijaiswal,Vini Jaiswal,Databricks,San Francisco,https://www.linkedin.com/in/vinijaiswal/,,3
+37087310,yuchenhuo,Yuchen Huo,,,,,3
+12979185,windpiger,,,,,,3
+51077614,sezruby,EJ Song,@Microsoft,Mountain View,,,3
+19929573,fvaleye,Florian Valeye,@BackMarket,France,https://fvaleye.github.io/,,3
+35536039,JassAbidi,,,"Amsterdam, Netherlands",,jacerabidi@gmail.com,3
+51110188,Yikf,Kaifei Yi,@apache,"Beijing, China",,yikaifei@apache.org,3
+98760575,minyyy,Min Yang,@databricks ,,,min.yang@databricks.com,3
+10036681,YannByron,Yann Byron,,,,,3
+24971568,FX196,Yuhong Chen,@databricks,,,,3
+821284,koertkuipers,Koert Kuipers,,,,,3
+85116904,lizhangdatabricks,Li Zhang,,,,,3
+4171904,maryannxue,,,,,,3
+1774385,somani,Abhishek Somani,,,,,2
+30342,alexott,Alex Ott,Alex Ott's Consulting,"Paderborn, Germany",http://alexott.net,alexott@gmail.com,2
+59501775,alexoss68,Alex Liu,DataBricks,,,,2
+265981,alkis,Alkis Evlogimenos,@databricks ,Switzerland,,alkis@evlogimenos.com,2
+3613359,jerrypeng,Boyang Jerry Peng,,,http://jerrypeng.org,,2
+114777395,carlfu-db,Carl Fu,,,,,2
+122407405,Dhruv-Shah9,Dhruv Shah,@databricks ,San Francisco ,,dhruv.shah@databricks.com,2
+812841,edmondop,Edmondo Porcu,,United States,,edmondo.porcu@gmail.com,2
+123997145,eo-db,Eric Ogren,,,,eric.ogren@databricks.com,2
+29158321,DonnyZone,Feng Zhu,,"Shenzhen, Guangdong, China",,wellfengzhu@gmail.com,2
+8537877,cfmcgrady,Fu Chen,@apache,"Hangzhou, China",,fchen@apache.org,2
+33684427,guykhazma,Guy Khazma,,,https://guykhazma.github.io/,,2
+16105676,hedibejaoui,Hedi Bejaoui,Infor,"Ontario, Canada",https://www.hedibejaoui.me/,contact@hedibejaoui.me,2
+12546802,PhVHoang,,,,,,2
+7788766,sadikovi,Ivan,,New Zealand,,,2
+8486025,beliefer,Jiaan Geng,,,,,2
+22519692,6a0juu,.,,,,,2
+57046,joeharris76,Joe Harris,,"St Augustine, FL",joeharris76.com,joeharris76@gmail.com,2
+1390267,nkarpov,Nick Karpov,@databricks,Los Angeles,http://www.nickkarpov.com,,2
+670302,houqp,QP Hou,,Bay,https://about.houqp.me,,2
+114445704,RunyaoChen,,,,,,2
+107926660,longvu-db,Thang Long Vu,Databricks,"Amsterdam, Netherlands",,,2
+81197532,vijayan-prabhakaran,,,,,,2
+114959455,willwwt,Weitao Wen,,,,,2
+5488879,wjones127,Will Jones,@lancedb,,datawill.io,,2
+101754295,xil-db,Xi Liang,Databricks,Bay Area ,xiliang.me,,2
+4833765,xuanyuanking,Li Yuanjian,Databricks,,,yuanjian.li@databricks.com,2
+6237050,ebyhr,Yuya Ebihara,@starburstdata @trinodb,,https://ebyhr.org,,2
+78497355,yuyuant,Yuyuan Tang,,,,,2
+4190164,zhenlineo,Zhen Li,,,,,2
+4297661,ekoifman,Eugene Koifman,,,,ekoifman@apache.org,2
+65622932,kian-db,Kian Ghodoussi,,,,,2
+54602805,stikkireddy,,Databricks,"Philadelphia, PA",,,2
+1554276,zero323,,,UnLondon,https://zero323.net/,,2
+39330037,i10416,110416,,Kyoto,,contact.110416@gmail.com,1
+16205848,adrian-ionescu,Adrian Ionescu,@databricks ,Amsterdam,,,1
+1740454,shtusha,Alex,@scribd,,,,1
+37601753,alexjinghn,Alex Jing,,,,hjing1994@gmail.com,1
+3519422,aleaugustoplus,Alexandre Lopes,Databricks,Canada,https://aprendizadodemaquina.com/,aleaugustoplus@gmail.com,1
+4701703,areese,Allen Reese,,,,java.allen@apple.com,1
+49829354,amirmor1,Amir Mor,,,,,1
+61991200,andrewli81,Andrew Li,@databricks,San Francisco,,,1
+930946,noslowerdna,Andrew Olson,@cerner ,,,,1
+101158731,andylam-db,Andy Lam,,,,,1
+66945176,animeshkash-db,Animesh Kashyap,@databricks ,,,,1
+408432,ankurdave,Ankur Dave,@databricks,"Pittsburgh, PA",http://ankurdave.com,ankurdave@gmail.com,1
+4445837,aamend,Antoine Amend,@databricks ,Phoenix,,,1
+11632081,tom-rb,Antonio,,,,,1
+6295975,Anurag870,,,,,f2005870@gmail.com,1
+6366031,arulajmani,Arul Ajmani,@cockroachdb,"Toronto, Canada",,arulajmani@gmail.com,1
+28363006,BjarkeTornager,,,,,,1
+44179472,bozhang2820,Bo Zhang,,,,,1
+25057040,bogdanrdc,Bogdan Raducanu,,,,,1
+3313946,brunopalos,Bruno Palos,@jumo,Guimarães,,,1
+22116017,CabbaggeCollector,CabbageCollector,,,,,1
+6467558,Silverlight42,Carlos Peña,,México,,,1
+16797158,ChenShuai1981,,,,,,1
+230655,liancheng,Cheng Lian,@databricks,"San Francisco, CA, US",,,1
+134436035,ChengJi-db,,,,,,1
+415076,xianwill,Christian Williams,,,,,1
+17283129,christophergrant,Christopher Grant,,,,,1
+36439732,dnskr,Denis Krivenko,,"Stockholm, Sweden",,,1
+94159,easel,Erik LaBianca,@7thsense ,"Ashburn, VA",http://erik.labianca.org/blog/,erik.labianca@gmail.com,1
+7405553,fapaul,Fabian Paul,Databricks,,,fabian.paul.de@gmail.com,1
+5933053,fbad,Fabio Badalì,,Italy,https://www.linkedin.com/in/fabiobadali/,,1
+87035001,flaviofcruz,Flavio Cruz,Databricks,"Pittsburgh, PA",,,1
+4786145,ganeshchand,Ganesh Chand,@databricks,San Francisco,ganeshchand.com,ganeshchand@gmail.com,1
+977801,gopik,Gopi Krishna Madabhushi,,"Hyderabad, IN",https://www.linkedin.com/in/gopik-/,gopikrishnam@gmail.com,1
+30063654,ZBHdd,Hang Jia,,,,754332450@qq.com,1
+11437312,moredatapls,Helge Brügner,@lichtblick,"Berlin, Germany",,,1
+57838698,handreassa,Herivelton Andreassa,BEES,Brazil,https://www.linkedin.com/in/heriveltonandreassa/,,1
+1040872,jakuborlowski,Jakub Orłowski,OLX,"Berlin, Germany",,jakub.orlowski@gmail.com,1
+26139395,jwang0306,Jared Wang,,,,,1
+25304038,JarredParrettDickinson,Jarred Parrett,,,,,1
+102138528,jasraj-dange,,,,,,1
+134336093,jingwang-db,Jing Wang,,,,jing.wang@databricks.com,1
+6148499,joewiden,Joe Widen,,"Richmond, VA",,,1
+197028,jodwyer,John O'Dwyer,,,,johnpodwyer@gmail.com,1
+50748,JoshRosen,Josh Rosen,Databricks,"Berkeley, CA",https://www.rosenville.com/,rosenville@gmail.com,1
+1720209,kination,K.I. (Dennis) Jung,@line,"Yokohama, Japan",https://kination.github.io,inylove82@gmail.com,1
+22572475,KaiqiJinWow,Kaiqi Jin,Databricks,Bay Area,,,1
+298735,yeskarthik,Karthik Subramanian,@Microsoft,"Redmond, WA",http://yeskarthik.in,karthik.s.sundaram@gmail.com,1
+5605465,skp33,Kaushal Prajapati,,Bangalore,,,1
+12701443,kevinneville,Kevin Neville,@volvo-cars,"Sweden, Stockholm",https://www.neville.se/,kevin.james.neville@gmail.com,1
+14839488,hleb-lizunkou1,,,,,,1
+61925257,k0tk267,Koki Otsuka,NAIST,"Nara, Japan",k0tk267.github.io,,1
+68855,viirya,Liang-Chi Hsieh,@apple @apache ,Seattle,http://www.viirya.org,,1
+920204,mrk-its,Mariusz Kryński,samba.tv,Warsaw,https://mrk.sed.pl,,1
+3421,grundprinzip,Martin Grund,@databricks ,"Berlin, Germany",,,1
+732143,mmengarelli,Michael Mengarelli,,Florida,,mengam01@gmail.com,1
+472304,mikedias,Mike Dias,@atlassian,"Sydney, Australia",www.linkedin.com/in/mikerodriguesdias,mike.rodrigues.dias@gmail.com,1
+5369424,mitchr,Mitchell Riley,,"Philadelphia, PA",mitchr.dev,mitchr@mitchr.dev,1
+33679306,neilramaswamy,Neil Ramaswamy,Databricks,,,,1
+16338643,GrigorievNick,Nick,@Appsflyer,Kiev,https://www.linkedin.com/in/nick-grigoriev-0077a068/,grigor60@gmail.com,1
+9535350,parisni,Nicolas Paris,,,,,1
+11791611,pabloFloresHdz,Pablo Flores,,,,pablofloreshernandez@hotmail.com,1
+2611255,pgrandjean,Patrick GRANDJEAN,,New York Metro Area,http://sweet-delights.io,pgrandjean.github.com@gmail.com,1
+42986994,PatrickLeahey,Patrick Leahey,Databricks,"Cincinnati, OH",,,1
+6949483,codesorcery,Patrick Marx,,"Karlsruhe, Germany",,,1
+35483858,pichlerpa,Patrick Pichler,,,,patrick.pichler@creativedata.io,1
+7253827,peter-toth,Peter Toth,@apache ,Hungary,https://www.linkedin.com/in/peter--toth/,peter.toth@gmail.com,1
+6265315,pulkit-singhal,Pulkit Singhal,@databricks,Bengaluru,,pulkit.singhal@databricks.com,1
+60903340,rgovind3,Rahul Govind,,,,,1
+5929642,ranu010101,Ranu Vikram,IIT GUWAHATI,"Guwahati, India",https://plus.google.com/u/0/+RanuVikram/posts,ranu010101@gmail.com,1
+287157,rpinzon,Renan Tomazoni Pinzon,Zenvia,"Porto Alegre, RS, Brazil",https://www.linkedin.com/in/renanpinzon,rpinzon@gmail.com,1
+323388,rxin,Reynold Xin,Databricks,San Francisco,http://rxin.org,rxin@databricks.com,1
+4022974,rlkelly,Rob Kelly,,,,,1
+109113384,ronaldz-db,Ronald Zhang,,,,,1
+3013418,Tagar,Ruslan Dautkhanov,,"Denver, CO",,,1
+822522,srowen,Sean Owen,@databricks ,"Austin, TX",,sean.owen@databricks.com,1
+1360483,sppalkia,Shoumik Palkar,Databricks Inc.,"Stanford, CA",https://shoumik.xyz,shoumikpalkar@gmail.com,1
+68876660,shutingzhan-db,,,,,,1
+5334567,siying,Siying Dong,,,,,1
+14060682,sonhmai,Son,,"Ho Chi Minh city, Vietnam",https://www.linkedin.com/in/maihongson/,,1
+54262,szeiger,Stefan Zeiger,Databricks,Germany,http://szeiger.de,,1
+1928943,suhsteve,Steve Suh,@Microsoft,,,,1
+8126926,bvsubhash,Subhash Burramsetty,,"Chennai, India",,,1
+102976862,db-scnakandala,Supun Nakandala,,,,supun.nakandala@databricks.com,1
+9131935,Tom-Newton,Thomas Newton,,"London, United Kingdom",,,1
+8322021,echang0929,Timothy Zhang,,"Beijing, China",,zhangyi.zhangyi@gmail.com,1
+812454,tfabritz,Tobias Fabritz,,,,,1
+76807899,lync0143,Tom Lynch,,,,,1
+57455730,fuzzy-memory,Tushar Machavolu,AB InBev,Bangalore,,,1
+5699893,vegarsti,Vegard Stikbakke,Dune @duneanalytics,Norway,vegardstikbakke.com,vegard.stikbakke@gmail.com,1
+21010250,vicennial,Venkata Sai Akhil Gudesa,@databricks ,Amsterdam,,,1
+6355940,vibhaska,Vivek Bhaskar,,https://twitter.com/vibhaska,http://in.linkedin.com/in/vibhaska,vibhaska@gmail.com,1
+4412998,vmussa,Vítor Mussa,"A de Agro, @basedosdados, @LABHDUFBA, PPGSA/UFRJ","Ouro Preto, MG",https://vmussa.github.io/,vtrmussa@gmail.com,1
+143362963,weiluo-db,Wei Luo,,,,,1
+2072857,yhuai,Yin Huai,Databricks,,,yhuai@databricks.com,1
+7608739,youngbink,Youngbin Kim,@Databricks,,,,1
+2197158,ylashin,Yousry Mohamed,,,,,1
+5795122,yxtay,YuXuan Tay,,Singapore,yxtay.github.io,,1
+2989575,yucai,Yucai Yu,eBay,China,,yyu1@ebay.com,1
+71593672,Zeesky-code,Zainab Lawal,,Turkey,,zainablaw1012@gmail.com,1
+65046554,brennerh1,Brenner Heintz,@databricks ,"Seattle, WA",,,1
+8701898,burakyilmaz321,burakyilmaz321,,,,burakyilmaz321@gmail.com,1
+6836627,chetkhatri,chetkhatri,,India,,ckhatrimanjal@gmail.com,1
+32609395,contrun,,,,https://contrun.github.io/wiki/,,1
+1117597,dmatrix,Jules S. Damji,Dmatrix Inc,"Fremont, CA",http://mazungumzo.wordpress.com,dmatrix@comcast.net,1
+132308037,ericm-db,,,,,,1
+23287355,gaurav-rupnar,,,,,,1
+17537134,hddong,hongdd,移动（苏州）软件技术有限公司,Suzhou Jiangsu China,,hongdongdong@cmss.chinamobile.com,1
+11747063,lswyyy,,,,,,1
+458707,noelo,,Red Hat,"Cork, Ireland",,,1
+68893,ouertani,slim,Zterable,Tunisia,,ouertani@gmail.com,1
+7802267,wwang-talend,wang wei,Talend,中国,,wwang@talend.com,1
+16397174,Ngone51,wuyi,ZJU,"Hangzhou, China",,yi.wu@databricks.com,1
+5275075,zml1206,Mingliang Zhu,,,,zhuml1206@gmail.com,1

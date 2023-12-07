@@ -1,0 +1,352 @@
+customer_id,username,name,company,location,blog,email,contributions
+41300,kimchy,Shay Banon,,,http://thedudeabides.com,kimchy@gmail.com,4781
+973334,s1monw,Simon Willnauer,@elastic ,Berlin,http://www.elastic.co,simonw@apache.org,3181
+4744941,jasontedor,Jason Tedor,@elastic ,,,jason@tedor.me,2809
+580421,martijnvg,Martijn van Groningen,Elastic,Hoofddorp,,martijn.v.groningen@gmail.com,2715
+289412,rjernst,Ryan Ernst,Elastic,California,http://www.twitter.com/ryanjernst,ryan@iernst.net,2120
+832460,javanna,Luca Cavanna,@elastic ,Amsterdam,,javanna@apache.org,2055
+215970,nik9000,Nik Everett,,,,nik9000@gmail.com,1961
+274222,dadoonet,David Pilato,@elastic,"France, Cergy",https://david.pilato.fr/,david@pilato.fr,1435
+299848,jpountz,Adrien Grand,Elasticsearch,"Caen, France",,,1356
+504194,rmuir,Robert Muir,ntrepid,Virginia,https://infosec.exchange/@rcmuir,rmuir@apache.org,1256
+1006375,bleskes,Boaz Leskes,MotherDuck,Amsterdam,,,1126
+56599,clintongormley,Clinton Gormley,,"Barcelona, Spain",,,1090
+40268737,jrodewig,James Rodewig,Elastic,"Tampa, FL",,james.rodewig@elastic.co,999
+667544,spinscale,Alexander Reelsen,,"Emsdetten, Germany",https://spinscale.de,,956
+4339958,jaymode,Jay Modi,,,,,939
+19060,dakrone,Lee Hinman,Elasticsearch,"Denver, CO",http://writequit.org,,935
+642733,tlrx,Tanguy Leroux,Elastic,"Greater Nantes Area, France",http://twitter.com/tlrx,,920
+236731,colings86,Colin Goodheart-Smithe,Elastic,United Kingdom,,,892
+26471269,lcawl,Lisa Cawley,@elastic ,,,lcawley@elastic.co,870
+10398885,cbuescher,Christoph Büscher,,Berlin,,,833
+6490959,original-brownbear,Armin Braun,@elastic ,"Schwyz, Switzerland",http://obrown.io,me@obrown.io,778
+655851,imotov,Igor Motov,,"Kailua-Kona, HI",,,768
+13474362,dnhatn,Nhat Nguyen,@elastic,,,dnhatn@apache.org,759
+15977469,jimczi,Jim Ferenczi,@elastic,London,,jim.ferenczi@elastic.co,717
+3718355,ywelsch,Yannick Welsch,,Luxembourg,,yannick@welsch.lu,669
+9351617,dimitris-athanasiou,Dimitris Athanasiou,@elastic ,Thessaloniki,,,565
+7405510,droberts195,David Roberts,Elastic,London,www.elastic.co,,540
+5058284,DaveCTurner,David Turner,@elastic ,"Yorkshire, UK",https://davecturner.github.io/,,502
+388837,talevy,Tal Levy,,,,,479
+830187,nknize,Nick Knize,Apache,"Lucas, TX",knize.co,nknize@apache.org,469
+753679,areek,Areek Zillur,elastic,"Waterloo, Canada",,areek@apache.org,457
+211019,uboness,,,"Amsterdam, Netherlands",,,456
+2353640,davidkyle,David Kyle,elastic,United Kingdom,,david.kyle@elastic.co,446
+4357155,benwtrent,Benjamin Trent,@elastic ,South Carolina,https://benwtrent.github.io/,ben.w.trent@gmail.com,418
+4320215,brwe,Britta Weber,,,,,414
+862472,Tim-Brooks,Tim Brooks,@elastic ,"Denver, CO",http://www.uncontended.net,,404
+76245,costin,Costin Leau,@elastic ,"Bay Area, CA, US",,,380
+796508,mikemccand,Michael McCandless,,"Lexington, MA",http://blog.mikemccandless.com,mail@mikemccandless.com,344
+1224228,polyfractal,Zachary Tong,Elastic,Vermont,,polyfractal@elastic.co,343
+2126764,jdconrad,Jack Conradson,Elastic,,,,336
+2565652,alpar-t,Alpar Torok,,UTC+2,,torokalpar@gmail.com,327
+49699333,dependabot[bot],,,,,,323
+2244393,tvernum,Tim Vernum,@elastic ,"Sydney, Australia",,,289
+7461306,jtibshirani,Julie Tibshirani,,,https://jtibshirani.github.io/,,273
+10281256,jkakavas,Ioannis Kakavas,@elastic ,"Athens, Greece",https://www.economyofmechanism.com,ikakavas@protonmail.com,262
+5190064,GaelTadh,Brian Murphy,ReliaQuest,,,brian.p.murphy@gmail.com,252
+1699576,danielmitterdorfer,Daniel Mitterdorfer,Elastic,Munich,https://daniel.mitterdorfer.name/legal/,,237
+1501235,pickypg,Chris Earle,Elastic,"Colorado, USA",,,236
+509855,reta,Andriy Redko,@aiven ,,https://aredko.blogspot.com/,,235
+7126422,hendrikmuhs,Hendrik Muhs,,,,,235
+4106672,mark-vieira,Mark Vieira,@elastic,"South Lake Tahoe, CA",,,228
+362578,debadair,,,,,,203
+1347065,romseygeek,Alan Woodward,Romsey Software Ltd,"Cambridge, UK",,,197
+4790,karmi,Karel Minarik,,"Prague, Czech Republic",http://www.karmi.cz,karel.minarik@gmail.com,188
+5058131,matriv,Marios Trivyzas,,,,,186
+893749,astefan,Andrei Stefan,,,,,179
+22324794,szabosteve,István Zoltán Szabó,@elastic ,"Szeged, Hungary",,istvan.szabo@elastic.co,178
+2838888,adnapibar,Rabi Panda,,"Bellevue, WA",,adnapibar@gmail.com,165
+4568420,albertzaharovits,Albert Zaharovits,@elastic ,UTC+2,,albert.zaharovits@gmail.com,152
+976291,jakelandis,Jake Landis,@elastic ,"Kansas City, Missouri",https://www.elastic.co,jake.landis@elastic.co,147
+19312454,przemekwitek,Przemysław Witek,@elastic ,,,,146
+613352,hub-cap,Michael Basnight,,Austin TX,,,143
+170925,markharwood,,,,,,138
+1522844,gwbrown,Athena Brown,@Elastic,Colorado Springs,https://someoneelses.computer/,,134
+5738841,mayya-sharipova,Mayya Sharipova,@elastic ,Canada,,mayya@apache.org,126
+33268011,henningandersen,Henning Andersen,,,,,122
+22777892,danhermann,Dan Hermann,,,,,115
+32132,honzakral,Honza Král,@aimful_io,Czech Republic,,,114
+1178348,lukasolson,Lukas Olson,Elastic,"Gilbert, AZ",,olson.lukas@gmail.com,110
+79435743,dreamer-89,Suraj Singh,AWS Amazon,"Bothell, Washington",,surajrider@gmail.com,106
+908371,tsullivan,Tim Sullivan,Elastic,"Phoenix, AZ, United States",,,103
+6202,drewr,Drew Raines,,,,,94
+11137008,pgomulka,Przemyslaw Gomulka,,,,,91
+1217601,andreidan,Andrei Dan,,London,https://twitter.com/_andreidan,andrei.dan@elastic.co,90
+1142449,johtani,Jun Ohtani,,Tokyo,https://blog.johtani.info,johtani@gmail.com,90
+1594901,mch2,Marc Handalian,@aws,,,,89
+9160839,andrross,Andrew Ross,,,,,88
+902768,bizybot,Yogesh Gaikwad,,"Melbourne, Australia",www.yogeshgaikwad.com,,88
+51061,ycombinator,Shaunak Kashyap,Elastic,"San Jose, CA",,,87
+8696382,pugnascotia,Rory Hunter,@elastic,United Kingdom,,,87
+78394866,tlfeng,Tianli Feng,Amazon,"Seattle, WA",opensearch.org,ftl94@live.com,83
+43475,alexksikes,Alex Ksikes,,,http://alex.ksikes.net/,alex.ksikes@gmail.com,80
+41702,simianhacker,Chris Cowan,@elastic ,"Lafayette, Colorado",,,79
+77300,breskeby,Rene Groeschke,@elastic,Berlin,http://www.breskeby.com,rene@breskeby.com,78
+1005388,uschindler,Uwe Schindler,"SD DataSolutions GmbH, Apache Software Foundation, PANGAEA",Bremen,https://www.thetaphi.de,,77
+29038686,iverase,Ignacio Vera,,,,ivera@apache.org,76
+29205940,andyb-elastic,Andy Bristol,Elastic,,,,73
+17763813,kotwanikunal,Kunal Kotwani,,"Seattle, WA",,,72
+875779,jbaiera,James Baiera,@elastic ,"Cleveland, Ohio",,,69
+404731,w33ble,Joe Fleming,Sibi,Phoenix,http://joefleming.net,,59
+2344308,ywangd,Yang Wang,@elastic,,,ywangd@gmail.com,57
+245275,Mpdreamz,Martijn Laarman,@elastic ,"Amsterdam, Netherlands",http://localghost.io,Mpdreamz@gmail.com,57
+542335,dblock,Daniel (dB.) Doubrovkine,@aws @opensearch-project,"New York, NY",https://code.dblock.org,dblock@dblock.org,57
+26058559,olcbean,,,,,olcbean@yahoo.com,54
+62345295,Rishikesh1159,Rishikesh Pasham,,,,,52
+1754575,dliappis,Dimitrios Liappis,,,dliapp.wizhut.com/blog,,52
+3253644,williamrandolph,William Brafford,@elastic ,,,william.brafford@elastic.co,52
+2646664,sachinpkale,Sachin Kale,AWS,"Bangalore, India",,sachinpkale@gmail.com,45
+16944164,saratvemulapalli,Sarat Vemulapalli,@AWS @opensearch-project,"Seattle, WA",,vemulapallisarat@gmail.com,44
+1190407,c-a-m,Cam Morris,not telling ;),Salt Lake City,,,42
+9029563,VachaShah,Vacha Shah,@aws @opensearch-project,"Seattle, WA",,vachshah@amazon.com,42
+208231,russcam,Russ Cam,,"Brisbane, Australia",https://forloop.co.uk/blog,,41
+209440,vladimirdolzhenko,Vladimir Dolzhenko,,The Netherlands,dolzhenko.blogspot.com,,41
+3806117,liketic,Like,Alibaba Cloud,"Hangzhou, China",,,40
+3896475,probakowski,Przemko Robakowski,,,,,39
+96771,mrsolo,Bill Hwang,,,http://www.linkedin.com/pub/bill-hwang/0/b/777,,39
+16099877,owaiskazi19,Owais Kazi,@aws @opensearch-project,"Seattle, Washington",https://owaiskazi19.github.io,owaiskazi19@gmail.com,38
+1562801,bpintea,Bogdan Pintea,,,,,38
+205174,lukas-vlcek,Lukáš Vlček,Aiven.io,"Brno, Czech Republic",http://cz.linkedin.com/in/lukasvlcek,lukas.vlcek@aiven.io,37
+9309003,ashking94,Ashish,AWS,,,,36
+822586,Paikan,Benjamin Devèze,,"Paris, France",https://www.linkedin.com/in/benjamindeveze/en,benjamin.deveze@gmail.com,36
+74381974,harold-wang,Harold Wang,AWS,"seattle, wa",,,35
+979663,not-napoleon,Mark Tozzi,@elastic ,"Baltimore, MD, USA",,,35
+173955,mattweber,Matt Weber,WeberTech Inc.,"Kalispell, MT",http://www.webertech.co,,34
+1594777,gmarz,Greg Marzouka,Elastic,"New Jersey, USA",,,34
+600624,andrershov,Andrey Ershov,@genestack,,https://www.linkedin.com/in/andrey-ershov-aba5302b/,,33
+24232742,stu-elastic,Stuart Tettemer,Elastic,,,,33
+549944,panda01,Khalah Jones Golden,,"San Juan, Puerto Rico",http://khalah.com,khasan222@gmail.com,32
+20815824,Poojita-Raj,Poojita Raj,AWS,Seattle ,,,30
+647552,alexshadow007,Alexander Kazakov,,"Moscow, Russia",,alexshadow007@gmail.com,29
+872351,aleksmaus,Aleksandr Maus,Elastic,"Washington, DC, USA",,,26
+98256,beiske,Konrad Beiske,@elastic ,Scandinavia,http://www.elastic.co/,,26
+2070843,geekpete,Peter Dyson,@elastic,APAC Region,,,26
+77301321,CEHENKLE,,,,,,23
+9291703,dbwiddis,Daniel Widdis,@aws @opensearch-project,"Bellevue, Washington, USA",https://www.linkedin.com/in/danielwiddis/,,23
+65832608,scrawfor99,Stephen Crawford,Open Search  at Amazon,,,,23
+2590333,chilling,,Elasticsearch,Berlin,,,22
+2177991,kzwang,Kevin Wang,@Netflix,San Francisco Bay Area,,,22
+1033457,fcofdez,Francisco Fernández Castaño,,Utrecht,,francisco.fernandez.castano@gmail.com,21
+25440813,imRishN,Rishab Nahata,@AWS,"Bangalore, India",https://www.linkedin.com/in/imrishn/,rishabnahata07@gmail.com,21
+9634570,linuxpi,Varun Bansal,AWS Opensearch,India,https://medium.com/@varunb94,varunb94@gmail.com,21
+32410745,edsavage,Ed Savage,@elastic,"Cambridge, UK",https://www.elastic.co,ed.savage@elastic.co,21
+5259061,anshu1106,Anshu Agarwal,@aws ,India,,anshuagarwal11@gmail.com,20
+14206422,dedemorton,DeDe Morton,Elastic,,,,20
+10944539,ryanbogan,Ryan Bogan,Amazon/AWS,,,,19
+5103613,sohaibiftikhar,Sohaib Iftikhar,,"Munich, Germany",linkedin.com/in/sohaibiftikhar/,iftikhar.sohaib@gmail.com,19
+1329312,spalger,Spencer,,"Phoenix, AZ",,,19
+85275476,kartg,Kartik Ganesh,"@opensearch-project, @aws, @amzn","Seattle, WA, USA",,,19
+1561376,csoulios,Christos Soulios,Elastic,,,,19
+45879454,dmeiss,Darren Meiss,Elastic,"Indiana, USA",,darren.meiss@elastic.co,18
+282823,hibnico,Nicolas Lalevée,,,,,18
+7472431,PnPie,Yu,,Shanghai,,yu.liu003@gmail.com,18
+3184718,markwalkom,Mark Walkom,,@warkolm,,,18
+53814,epixa,Court Ewing,@elastic ,,,court@epixa.com,17
+17432265,cwperks,Craig Perkins,AWS,"Recent Boston, MA transplant from NYC",,,17
+1327920,GlenRSmith,Glen Smith,,,,github@smithsrock.com,17
+39668292,lipsill,,,,,llipsilly@gmail.com,16
+212252,synhershko,Itamar Syn-Hershko,BigData Boutique ,Israel,https://code972.com/,itamar@bigdataboutique.com,16
+85715413,xuezhou25,Xue Zhou,,,,,16
+7216393,ppf2,Pius,,,,,16
+46726078,abbashus,Abbas Hussain,@aws @opensearch-project,Seattle,opensearch.org,abbas_10690@yahoo.com,16
+12809319,Bukhtawar,Bukhtawar Khan,@AWS,Bangalore,,bukhtawar7152@gmail.com,15
+58999915,setiah,Himanshu Setia,AWS @opensearch-project,Seattle,,,15
+146705,kiryam,Ivannikov Kirill,ozon.ru,Russia,http://kiryam.ru,kiryam@kiryam.ru,15
+2246002,eskibars,Shane Connelly,,"San Francisco, CA",https://eskibars.com,shane@eskibars.com,15
+15811131,gaobinlong,gaobinlong,,shanghai,,gbl_long@163.com,15
+15988488,tomcallahan,Tom Callahan,@elastic ,,http://research.tom.callahan.us/,,15
+354105,brusic,Ivan Brusic,,,brusic.com,,15
+2944739,andrestc,André Carvalho,Facebook,London,https://andrestc.com,asantostc@gmail.com,14
+1824124,ankitkala,Ankit Kala,AWS,Bangalore,,,14
+85113518,gbbafna,Gaurav Bafna,aws,Bangalore,,,14
+572174,masaruh,Masaru Hasegawa,,"Tokyo, Japan",,,14
+98922864,opensearch-trigger-bot[bot],,,,,,14
+1440619,KoenDG,Koen De Groote,,Belgium,,kdg.dev@gmail.com,13
+795879,scampi,Stéphane Campinas,@sirensolutions ,Berlin,,stephane.campinas@gmail.com,13
+1799964,xuzha,Xu Zhang,,,,,13
+1210641,ankon,Andreas Kohn,@Framer,Amsterdam,,,12
+65193828,peterzhuamazon,Peter Zhu,AWS,SEA,,,12
+9273653,gfyoung,,,,https://gitlab.com/gfyoung,,12
+1472550,a2lin,Alexander Lin,,"San Francisco, CA",,,11
+1238659,cjcenizal,CJ Cenizal,,Los Angeles,http://www.cenizal.com,,11
+15325213,howardhuanghua,Howard,Tencent,"Shenzhen, China",,danielhuang@tencent.com,11
+22185250,jed326,Jay Deng,@aws,San Francisco,,jayd0104@gmail.com,11
+2119212,jsoref,Josh Soref,@GarnerCorp ,Toronto,,,11
+6240205,RS146BIJAY,rishavz_sagar,Amazon India,Benagaluru,,rishavsagar4b1@gmail.com,11
+635745,jprante,Jörg Prante,-,"Cologne, Germany",http://xbib.org,joergprante@gmail.com,11
+9292653,ketanv3,Ketan Verma,@aws,"New Delhi, IN",https://www.codezest.in,,11
+31489089,rw-access,Ross Wolf,@sublime-security ,CO,rw-access.dev,,10
+22159459,sohami,Sorabh,@AWS,San Jose,,sohami.apache@gmail.com,10
+4865608,delvedor,Tomas Della Vedova,@elastic  ,Italy,https://delvedor.dev,,10
+975826,obourgain,Olivier Bourgain,,Paris,,,10
+346194,msfroh,Michael Froh,Amazon Web Services,"Seattle, WA",,,10
+75581441,spenceralger,,,,,,10
+13824577,andrewbanchich,Andrew Banchich,,"Buffalo, New York",,,9
+1080664,chrismale,,,,,gento0nz@gmail.com,9
+694597,cwurm,Christoph Wurm,@Clickhouse ,London,,,9
+21545602,cbismuth,Christophe Bismuth,Groupe TF1,"Paris, France",tf1.fr,christophe.bismuth@gmail.com,9
+8342216,dhwanilpatel,Dhwanil Patel,,,,,9
+9700541,dongjoon-hyun,Dongjoon Hyun,@apple @apache ,San Francisco Bay Area,https://www.linkedin.com/in/dongjoon,dongjoon@apache.org,9
+3143860,jbudz,Jon,,,,,9
+391931,nkvoll,Njal Karevoll,Elastic,"Voss, Norway",,njal@karevoll.no,9
+1663864,adrinjalali,Adrin Jalali,@huggingface ,Germany,http://adrin.info,adrin.jalali@gmail.com,8
+473687,willyborankin,Andrey Pleskach,Aiven,"Germany, Berlin",,ples@aiven.io,8
+8193480,jainankitk,Ankit Jain,AWS @opensearch-project,"Palo Alto, CA",,jain.ankitk@gmail.com,8
+104654647,gashutos,Chaitanya Gohel,Amazon,,,,8
+199470,dweiss,Dawid Weiss,Carrot Search s.c.,"Poznań, Poland",http://www.carrotsearch.com,dawid.weiss@carrotsearch.com,8
+470589,fhopf,Florian Hopf,,Singapore,http://blog.florian-hopf.de,,8
+6162415,navneet1v,Navneet Verma,Amazon,Seattle,https://vermanavneet.carrd.co/,navneev@amazon.com,8
+2754967,peternied,Peter Nied,Amazon.com,"Austin, TX",,,8
+243995,rneatherway,Robin Neatherway,,,,,8
+36747279,Sue-Gallagher,Sue Gallagher,,,,,8
+452273,aleph-zero,Andrew Selden,,,,,8
+1400984,matarrese,Antonio Matarrese,,London,linkedin.com/in/amatarrese,matarrese@gmail.com,8
+10174523,szroland,Roland,,"Budapest, Hungary",,,8
+6431686,rationull,Jonathan Little,,,,,8
+874677,qwerty4030,Alex Benusovich,,"Los Angeles, CA",,qwerty4030@gmail.com,8
+738069,missinglink,Peter Johnson,@Pelias @GeocodeEarth,"52°32'34.4""N 13°24'11.8""E",https://www.linkedin.com/in/missinglink,,8
+58062316,bharath-techie,Bharathwaj G,@aws,"Bangalore, India",,,7
+708579,fforbeck,Felipe Forbeck,@openlawteam // prev. @ConsenSys ,Brazil,,fforbeck@gmail.com,7
+365914,gpstathis,George P. Stathis,,"Boston, MA",,george@george-stathis.com,7
+31981080,harishbhakuni,Harish Bhakuni,Amazon Web Services,"SF Bay Area, California, US",,,7
+38700,mfussenegger,Mathias Fußenegger,,Austria,https://zignar.net,,7
+39383228,rursprung,Ralph Ursprung,,,,,7
+11466284,rashmivkulkarni,Rashmi Kulkarni,Elastic,MountainView,,rashmi.kulkarni@elastic.co,7
+174291,robin13,Robin Clarke,@elastic ,"Landsberg, Germany",https://robinclarke.net/,robin@robinclarke.net,7
+25262500,sarthakaggarwal97,Sarthak Aggarwal,,New Delhi,,sarthakaggarwal97@gmail.com,7
+208023,fred84,Sergey Galkin,,Moscow/Russia,,sergey@galkin.me,7
+4185750,sophiec20,Sophie Chang,Elastic,London,www.elastic.co,,7
+119659,jarpy,Nina McLaughlin,Elastic,Adelaide,,,7
+7591487,tveasey,Tom Veasey,Elastic,York,www.elastic.co,,7
+1827790,glefloch,Guillaume Le Floch,Zenika,"Niort, France",,,7
+131427,andrewvc,Andrew Cholakian,Elastic,"Minneapolis, MN",http://blog.andrewvc.com,andrew@andrewvc.com,6
+627123,kobelb,Brandon Kobel,,,,brandon.kobel@elastic.co,6
+11335549,catalin-ursachi,Catalin Ursachi,Softwire,London,,,6
+2391016,Gaganjuneja,Gagan Juneja,@aws,Bengaluru,,gagandeepjuneja@gmail.com,6
+1809492,heemin32,Heemin Kim,AWS,Seattle,,,6
+2160810,jasonodonnell,Jason O'Donnell,HashiCorp,"Palmyra, PA",,,6
+809707,orhantoy,Orhan Toy,,Denmark,http://orhantoy.com,,6
+2969395,penghuo,Peng Huo,Amazon,Seattle,,penghuo@gmail.com,6
+45330063,PritLadani,Prit Ladani,@aws,"Bangalore, India",,,6
+81695996,soosinha,Sooraj Sinha,AWS @opensearch-project,Bangalore,,,6
+1222964,Xtansia,Thomas Farr,@aws,New Zealand,https://xtansia.com,xtansia@xtansia.com,6
+283765,gabriel-tessier,,Luxeys,Japan,,,6
+5070449,weizijun,weizijun,Alibaba,China,,,6
+696611,thefourtheye,Sakthipriyan Vairamani,,India,http://thefourtheye.in,,6
+114977491,shourya035,Shourya Dutta Biswas,,Bengaluru,,,6
+244900,ruflin,Nicolas Ruflin,Xodoa,Zurich,http://ruflin.com/,,6
+5576500,AndyHunt66,,,,,andy@andrewhunt.me.uk,5
+1161681,aureq,Aurélien Requiem,Engineer @pulumi ,"Melbourne, AU",,,5
+1363802,austintlee,Austin Lee,Aryn,"Seattle, WA",,austin@aryn.ai,5
+3187614,bly2k,bly2k,,,,,5
+225704,damienalexandre,Damien Alexandre,JoliCode,"Paris, France",https://damienalexandre.fr/,,5
+3493255,legrego,Larry Gregory,@elastic ,"New York, USA",,,5
+44716267,noCharger,Louis Chu,Amazon Web Services,"Bellevue, WA ",https://opensearch.org,clingzhi@amazon.com,5
+113382730,mingshl,Mingshi Liu,Amazon,"Bellevue, Washington",https://opendistro.github.io,,5
+81609427,mgodwan,Mohit Godwani,Amazon Web Services @opensearch-project ,"Bangalore, IN",,,5
+2988117,Hohol,Nikita Glashenko,,Samara,,nikita.glashenko@gmail.com,5
+1713347,peschlowp,Patrick Peschlow,,,,,5
+5822647,prondzyn,Piotr Prądzyński,,Toruń,http://ProgramistaNaSwoim.pl,,5
+22799337,raghuvanshraj,Raghuvansh Raj,,Delhi,,,5
+1413206,reuben-sutton,Reuben Sutton,@Shopify ,London,,reuben.sutton@shopify.com,5
+99425694,sgup432,Sagar,AWS,"Palo Alto, CA",,,5
+61760125,gaiksaya,Sayali Gaikawad,@aws @opensearch-project,"Seattle, WA",,,5
+309336,simonmorley,Simon Morley,,London,,,5
+329467,chtitux,Théophile Helleboid - chtitux,SysDevRun,France,https://www.sys-dev-run.fr/,chtitux@gmail.com,5
+51488860,ticheng-aws,Ticheng Lin,@aws @opensearch-project,"San Francisco Bay Area, CA",https://github.com/opendistro-for-elasticsearch,,5
+7066180,hanbj,hanbj,Tencent,China,www.hbjblog.com,hanbj0707@163.com,5
+109206473,pranikum,pranikum,AWS,Bangalore,,,5
+1696639,stephlag,Stephan L,N26,barcelona,,,5
+527878,camilojd,Camilo Díaz Repka,Amazon (@amzn),Berlin,,,5
+4742,elasticdog,Aaron Bull Schaefer,,"Spokane, WA",https://elasticdog.com/,aaron@elasticdog.com,4
+783205,awislowski,Andrzej Wisłowski,,,,,4
+108734800,BhumikaSaini-Amazon,Bhumika Saini,Amazon,,,,4
+4607177,boicehuang,boicehuang,Tencent,,,,4
+5618806,bmorelli25,Brandon Morelli,@elastic ,"Portland, Oregon",codeburst.io,,4
+56682,chrisronline,Chris Roberson,@Slack,"Rochester, NY",http://www.chrisronline.com,,4
+548322,centic9,Dominik Stadler,,,http://centic9.github.io/repositories/,,4
+1675411,gmoskovicz,Gabriel Moskovicz,Elastic,Mountain View,,gabriel.moskovicz@elastic.co,4
+5428251,githubfromgui,Guilherme Ferreira,,Warsaw,http://guilherme-ferreira.me,,4
+5542423,gskema,Gytis Šk.,,"Kaunas, Lithuania",,,4
+1263434,jbertouch,James Bertouch,,"New York, NY",,james@bertouch.com,4
+4387023,PhaedrusTheGreek,Jay Greenberg,Elastic,Canada,http://www.elastic.co,,4
+3361501,j-haj,Jeff Hajewski,@noom,"Iowa City, IA",,jeff.hajewski@gmail.com,4
+369852,jmluy,John Michael Luy,SPD,Singapore,,,4
+7401,joshuar,Joshua Rich,,"Brisbane, Australia",https://au.linkedin.com/in/joshuarichau,joshua.rich@gmail.com,4
+3705643,konradkonrad,,,,,,4
+1152927,stockholmux,Kyle J. Davis,@bottlerocket-os at AWS,"Edmonton, Alberta, Canada",,kyledvs@amazon.com,4
+39002973,Leaf-Lin,,,,,,4
+4430,rollick,,,Earth,,,4
+13830585,neetikasinghal,Neetika Singhal,Amazon Web Services,San Francisco Bay Area,https://opendistro.github.io,,4
+114057571,nishchay21,Nishchay Malhotra,AWS,Bangalore,,,4
+541494,immon,Paweł Krześniak,Elastic ,"Warsaw, Poland",,,4
+640,ph,Pier-Hugues Pellerin,,Montreal,http://stove.io,ph@heykimo.com,4
+271677,electrical,Richard Pijnenburg,,London,,,4
+71428218,saikaranam-amazon,Sai Kumar,AWS,,,,4
+5564497,sandeepkanabar,Sandeep Kanabar,,,,sandeepkanabar@gmail.com,4
+15327011,getsaurabh02,Saurabh Singh,Amazon Web Services,Seattle,https://opendistro.github.io/,,4
+219690,seut,Sebastian Utz,crate.io,Berlin,,,4
+1305185,justahero,Sebastian Ziebell,,Berlin,,,4
+403174,snuyanzin,Sergey Nuyanzin,@aiven,Düsseldorf/Germany,,,4
+22251956,sudo-suhas,Suhas Karanth,@gojek,"Bengaluru, India",,,4
+1595958,suyograo,Suyog Rao,,United States,,,4
+1733846,tylerjl,Tyler Langlois,,"Boise, ID",https://tjll.net,,4
+3817380,vladgolubev,Vlad Holubiev,@shelfio ,"Wrocław, Poland",https://vladholubiev.com/,,4
+12200381,vrozov,Vlad Rozov,,,,,4
+12280517,wilder,Wilder Pereira,@apple,"London, UK",https://wilder.github.io,wilder_roberto@hotmail.com,4
+18483548,ericamick,Eric Amick,U.S. House of Representatives,,,eric.amick@mail.house.gov,4
+13898618,makeyang,,,,,,4
+19952854,suranjay,suraj kumar,best company,bangalore,,surajkumar.tu@gmail.com,4
+1020383,untergeek,Aaron Mildenstein,Elastic,"Salem, UT",http://untergeek.com,aaron@mildensteins.com,3
+105249973,aabukhalil,Ahmad AbuKhalil,Amazon.com,"Seattle, WA",opensearch.org,,3
+301220,alexwlchan,Alex Chan,@wellcomecollection  ,UK,https://alexwlchan.net,alex@alexwlchan.net,3
+6208352,alexmorosmarco,Alex Moros Marco,,,https://twitter.com/alexmorosmarco,,3
+550,AndrewO,Andrew O'Brien,,"Annapolis, MD",https://rls.social/@AndrewO,,3
+1898708,ao,Andrew Odendaal,@aws,127.0.0.1/32,https://ataiva.com,,3
+169803,kubum,Andrey Fadeyev,,"London, UK",,,3
+66969140,kasundra07,Bansi Kasundra,,,,,3
+322311,benmccann,Ben McCann,c3.ventures,California,http://www.benmccann.com,,3
+31269,brutasse,Bruno Renié,@exoscale ,"Lausanne area, Switzerland",https://bruno.renie.fr,,3
+53786748,wchrisdean,Chris Dean,@elastic ,"Cedar Rapids, Iowa",,,3
+507924,cfontes,Cristiano Fontes,,,,,3
+94355,hc,Cédric Hourcade,,,,,3
+35282393,DarshitChanpura,Darshit Chanpura,AWS,"Boston, MA",,,3
+58244,bookshelfdave,Dave Parfitt,HashiCorp,Buffalo NY,,,3
+5939211,nomoa,David Causse,,France,,,3
+19814268,david-cho-lerat-HL2,David Cho-Lerat,hl2,,,david.cho-lerat@hl2.com,3
+836426,dpursehouse,David Pursehouse,,Kawasaki,,,3
+8819486,elijahdjmarshall,Elijah,,Maryland,,,3
+475967,ezimuel,Enrico Zimuel,@elastic ,Torino (Italy),www.zimuel.it,,3
+84711,erickt,Erick Tryzelaar,,,,erick.tryzelaar@gmail.com,3
+3750300,fbaligand,Fabien Baligand,Informatique CDC,Paris,https://www.linkedin.com/in/fbaligand/,fbaligand@gmail.com,3
+689327,picandocodigo,Fernando Briano,@elastic,"Edinburgh, Scotland",https://fernandobriano.com,,3
+47542,skade,Florian Gilcher,Ferrous Systems,Berlin,https://ferrous-systems.com,florian.gilcher@ferrous-systems.com,3
+107960841,mloufra,Frank Lou,Amazon/AWS,"Seattle, Washington",,,3
+67768441,hauck-jvsh,Hauck,Policia Federal,Brasilia-DF,,,3
+866643,lindstromhenrik,Henrik Lindström,,,www.lindstromhenrik.com,lindstrom.henrik@gmail.com,3
+327589,codebird,Hicham Mallah,Validation.com,,https://validation.com,mallah.hicham@gmail.com,3
+52720125,iandanforth-alation,Ian Danforth,Alation,,,,3
+25900888,InbarShimshon,Inbar Shimshon,Rivery,,,ishimshon@gmail.com,3
+142512,itsadok,Israel Tsadok,,"Tel Aviv, Israel",,,3
+5118470,jpcarey,Jared Carey,,"Boise, ID",,,3
+6099128,inqueue,Jason Bryan,"Elastic, Inc.","Bargersville, IN",https://www.elastic.co,,3
+819187,jillesvangurp,Jilles van Gurp,FORMATION,"Berlin, Germany",http://www.jillesvangurp.com,,3
+1059363,izeye,Johnny Lim,,,,izeye@naver.com,3
+491428,suzuken,Kenta SUZUKI,CARTA HOLDINGS,Japan,http://suzuken.hatenablog.jp,,3
+468073,kevinkluge,Kevin Kluge,Elastic,"Los Altos, California, USA",,,3
+90975457,Kuanysh-kst,Kuanysh,,,,,3
+11694130,kunal642,Kunal Kapoor,Huawei Technologies,Bangalore,,kunalkapoor@apache.org,3
+10859176,Hearen,LHearen,PinDuoDuo,"Shanghai, China",https://www.lhearen.site,LHearen@gmail.com,3
+122850,lfrancke,Lars Francke,@stackabletech ,"Hamburg, Germany",https://www.stackable.tech,github@lars-francke.de,3
+2437214,wikka,Leslie Wittig Quintanilla,,,,,3
+19326785,mariaral,Maria Ralli,@ails-lab ,Athens,https://ails.ece.ntua.gr/,mariai.ralli@gmail.com,3
+501525,mgreau,Maxime Gréau,@elastic,"Boston MA, USA",https://mgreau.com,,3
+44311835,meghasaik,Megha Sai Kavikondala,Amazon @aws @opensearch-project,"Redmond, Washington ",meghasaik@gmail.com,kavmegha@amazon.com,3
+28930952,ajaymovva,Movva Ajaykumar,@aws,,,majaykumar51@gmail.com,3
+1061118,goyalmunish,Munish Goyal,Zendesk,"Melbourne, Australia",https://www.linkedin.com/in/goyalmunish/,munishapc@gmail.com,3
+7804425,lonlylocly,Nikolay Vasiliev,SpazioDati,"Trento, Italy",,,3
+4647811,ofir123,Ofir Brukner,@Gem-Security  ,New York,,ofirbrukner@gmail.com,3
+361280,pmusa,Pablo Musa,Sysdig,Amsterdam,https://sysdig.com/,,3
+3136161,vertexcite,Randall Britten,,"Auckland, New Zealand",,,3
+73564,rboulton,Richard Boulton,,,,richard@tartarus.org,3

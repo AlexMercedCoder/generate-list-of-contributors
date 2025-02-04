@@ -100,7 +100,8 @@ const assembleCSV = async (repository, date) => {
 };
 
 try {
-  assembleCSV("apache/iceberg", "102524");
+  assembleCSV("apache/iceberg", "020425");
+  assembleCSV("apache/polaris", "020425");
   // assembleCSV("apache/hudi", "120623")
   // assembleCSV("delta-io/delta", "090324");
   // assembleCSV("opensearch-project/OpenSearch", "082323");

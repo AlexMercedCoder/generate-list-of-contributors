@@ -1,0 +1,49 @@
+customer_id,username,name,company,location,blog,email,contributions
+957468,snazy,Robert Stupp,Dremio,Germany,,,115
+25180681,renovate-bot,Mend Renovate,@mend,,https://mend.io/renovate/,renovate@whitesourcesoftware.com,100
+463876,adutra,Alexandre Dutra,Dremio,Paris,http://www.dremio.com,,90
+158903,jbonofre,JB Onofré,,France,http://www.nanthrax.net,jbonofre@apache.org,54
+29619290,MonkeyCanCode,,,,,,37
+40603221,dimas-b,Dmitri Bourlatchkov,,"Toronto, Canada",,,29
+6237050,ebyhr,Yuya Ebihara,@starburstdata,,https://ebyhr.ghost.io,,28
+23219656,eric-maynard,Eric Maynard,@snowflakedb,,,eric.maynard+oss@snowflake.com,27
+1322359,flyrain,Yufei Gu,,,,yufei@apache.org,25
+40346148,collado-mike,Michael Collado,Snowflake,collado-mike,https://hachyderm.io/@peladocollado,,18
+7133966,andrew4699,Andrew Guterman,Snowflake,Seattle,,andrew.guterman1@gmail.com,15
+7892219,annafil,Anna Filippova,@streamlit,"San Francisco, CA",annafil.com,,13
+7410123,dennishuo,Dennis Huo,Snowflake,,,,13
+4146188,nk1506,Naveen Kumar,Dremio ,Bangalore,,nk1506@gmail.com,9
+144328,findepi,Piotr Findeisen,@sdf-labs ,Poland,,,9
+26491691,aihuaxu,Aihua Xu,Snowflake,"San Jose, CA",,aihuaxu@gmail.com,6
+9057843,kevinjqliu,Kevin Liu,,,,,5
+30938,sullis,,,"Portland, Oregon, USA",,,5
+62918981,tzuan16,Hung-An (Alvin) Chen,@snowflakedb,,,,4
+140284484,HonahX,Honah J.,Snowflake,,,honahx@apache.org,3
+49699333,dependabot[bot],,,,,,3
+26598631,chenjian2664,chenjian2664,,Singapore,,chenjian2664@gmail.com,3
+8766565,Gerrit-K,Gerrit Kieffer,,"Düsseldorf, Germany",,,3
+11516015,cgpoh,CG,,,,,3
+26811266,alessandro-nori,Alessandro Nori,@DataDog,,,,2
+175990617,sfc-gh-ygu,Yufei Gu,,,,,2
+14131530,takidau,Tyler Akidau,@SnowflakeDB,Seattle,twitter.com/takidau,,2
+413025,RussellSpitzer,Russell Spitzer,,New Orleans,www.russellspitzer.com,,2
+547446,mrcnc,Marc Cenac,@DataDog ,"New Orleans, LA",,,2
+7376200,aniket-s-kulkarni,Aniket Kulkarni,,,,,2
+5889404,ajantha-bhat,Ajantha Bhat,@Dremio,India (Remote),https://www.linkedin.com/in/ajanthabhat/,ajanthabhat@gmail.com,2
+66674534,mlsstart,mlsstart,,,,,1
+11939923,krvikash,,,,,git.krvikash@gmail.com,1
+6054278,d87zhang,,,,,,1
+189396817,adithyashanker22,,,,,,1
+32295829,XJDKC,Rulin Xing,Snowflake,"Seattle, WA, US",https://www.linkedin.com/in/xjdkc/,rulin@apache.org,1
+12184649,zhuqi-lucas,Qi Zhu,@cloudera,NanJing,https://issues.apache.org/jira/secure/ViewProfile.jspa?name=zhuqi,,1
+35593236,singhpk234,Prashant Singh,@aws,"Bay Area, USA",,,1
+9348839,mf-lit,Marc,,,,,1
+144504,justinmclean,Justin Mclean,Class Software,Sydney Australia,,justin@classsoftware.com,1
+169215436,sfc-gh-jbasden,Jaret Basden,,,,,1
+6187287,haizhou-zhao,Haizhou Zhao,,,,zhaohaizhou940527@gmail.com,1
+14901777,george-zubrienko,George Zubrienko,@SneaksAndData ,Copenhagen,,,1
+4234426,danielvdende,Daniel van der Ende,,Netherlands,,,1
+135958699,danielhumanmod,Daniel Tu,Carnegie Mellon University,"Seattle, WA",,,1
+2223194,jdanielmyers,Daniel Myers,@snowflakedb @Snowflake-Labs ,Dallas TX,,,1
+10573749,bbrewington,Brent Brewington,Aimpoint Digital,"Atlanta, GA",https://www.aimpointdigital.com/team/brent-brewington,brent.brewington@gmail.com,1
+269864,anoopj,Anoop Johnson,Databricks,"Bay Area, CA",http://anoopjohnson.com,,1
